@@ -1,7 +1,7 @@
 <img src="banner.jpeg" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm  Nicolette, a South African Agile Software Developer👋🏼:
-🛜 currently working on my own [webpage](#)<br>👨🏼‍🎓 studying software engineering at CTU training solutions<br>👨🏼‍💻 working as a web developer since 2022
+🛜 currently working on my own [webpage](#)<br>👨🏼‍🎓 studying software engineering at CTU training solutions<br>👨🏼‍💻 working as a web developer since 2024
 
 
 # 💻 Tech Stack:
