@@ -1,10 +1,5 @@
 <img src="banner.jpeg" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm  Nicolette, a South African Agile Software Developer👋🏼:
-🛜 currently working on my own [webpage](#)<br>👨🏼‍🎓 studying software engineering at CTU training solutions<br>👨🏼‍💻 working as a web developer since 2024
-
-
-# 💻 Tech Stack:
 ###
 
 <h1 align="center">Hey there 👋I'm Nicolette</h1>
@@ -14,10 +9,8 @@
 <h3 align="left">👩‍💻  Agile Software Developer | Full Stack Development Expert-in-Training | React.js, C#, Node.js & Azure Proficient | Passionate About Solving Real-World Problems Through Scalable Software | Future Software Engineer</h3>
 
 ###
+🛜 currently working on my own [webpage](#)<br>👨🏼‍🎓 studying software engineering at CTU training solutions<br>👨🏼‍💻 working as a web developer since 2024
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
