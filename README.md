@@ -99,6 +99,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickiMash17&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
+<!-- Achievements-->
+<h4 align="left">🌟 Projects & Achievements</h4> <ul> <li>💻 Developed a <b>Real Estate Listing Platform</b> using the MERN stack, featuring advanced search filters and interactive maps.</li> <li>🌐 Designed responsive websites using <b>React.js</b> and <b>Tailwind CSS</b> for enhanced user experience.</li> <li>📊 Implemented a <b>Data Analysis Tool</b> in Python for visualizing business insights.</li> <li>🎨 Created visually engaging social media graphics with <b>Adobe Photoshop</b> and <b>Figma</b>.</li> </ul>
+
 <!-- Socials -->
 <div align="center">
   
