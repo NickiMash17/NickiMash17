@@ -1,14 +1,14 @@
 <img src="banner.jpeg" alt="GitHub Banner" width="100%" />
 
 
- ## Hey there 👋 I'm Nicolette
+<h1 align="center">Hey there 👋 I'm Nicolette</h1>
 <h3 align="center">👩‍💻 Agile Software Developer | Full Stack Developer-in-Training | Proficient in React.js, C#, Node.js & Azure | Passionate About Solving Real-World Problems Through Scalable Software Solutions</h3>
-<h4 align="left">💡 About Me</h4> <ul> <li>🛠️ Currently building my personal <a href="#">webpage</a> to showcase my journey and projects.</li> <li>🎓 Pursuing Software Engineering at <b>CTU Training Solutions</b>, developing strong foundations in agile methodologies and modern technologies.</li> <li>🌱 Actively learning advanced software development practices and cloud computing.</li> <li>👩‍💻 Working as a <b>Web Developer</b> since 2024, specializing in crafting responsive and user-friendly interfaces.</li> <li>🚀 Aspiring to be a dynamic Software Engineer making impactful contributions to the tech world.</li> </ul>
+
+<h4 align="left">💡 About Me</h4>
+<ul> <li>🛠️ Currently building my personal <a href="#">webpage</a> to showcase my journey and projects.</li> <li>🎓 Pursuing Software Engineering at <b>CTU Training Solutions</b>, developing strong foundations in agile methodologies and modern technologies.</li> <li>🌱 Actively learning advanced software development practices and cloud computing.</li> <li>👩‍💻 Working as a <b>Web Developer</b> since 2024, specializing in crafting responsive and user-friendly interfaces.</li> <li>🚀 Aspiring to be a dynamic Software Engineer making impactful contributions to the tech world.</li> </ul>
 
 
-## 🛠 Language and tools
-
-###
+<h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
@@ -102,12 +102,15 @@
 
 <!-- Achievements-->
 
-## 🌟 Projects & Achievements <ul> <li>💻 Developed a <b>Real Estate Listing Platform</b> using the MERN stack, featuring advanced search filters and interactive maps.</li> <li>🌐 Designed responsive websites using <b>React.js</b> and <b>Tailwind CSS</b> for enhanced user experience.</li> <li>📊 Implemented a <b>Data Analysis Tool</b> in Python for visualizing business insights.</li> <li>🎨 Created visually engaging social media graphics with <b>Adobe Photoshop</b> and <b>Figma</b>.</li> </ul>
+## 🌟 Projects & Achievements
+
+<ul> <li>💻 Developed a <b>Real Estate Listing Platform</b> using the MERN stack, featuring advanced search filters and interactive maps.</li> <li>🌐 Designed responsive websites using <b>React.js</b> and <b>Tailwind CSS</b> for enhanced user experience.</li> <li>📊 Implemented a <b>Data Analysis Tool</b> in Python for visualizing business insights.</li> <li>🎨 Created visually engaging social media graphics with <b>Adobe Photoshop</b> and <b>Figma</b>.</li> </ul>
 
 <!-- Socials -->
 <div align="center">
   
 ## 🌐 Connect with Me 🍬
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](#) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reney_717) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/nicolette-mashaba-b094a5221/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/m_neyi) 
 
 </div>
