@@ -1,16 +1,9 @@
 <img src="banner.jpeg" alt="GitHub Banner" width="100%" />
 
-###
 
-<h1 align="center">Hey there 👋I'm Nicolette</h1>
-
-###
-
-<h3 align="left">👩‍💻  Agile Software Developer | Full Stack Development Expert-in-Training | React.js, C#, Node.js & Azure Proficient | Passionate About Solving Real-World Problems Through Scalable Software | Future Software Engineer</h3>
-
-###
-🛜 currently working on my own [webpage](#)<br>👨🏼‍🎓 studying software engineering at CTU training solutions<br>👨🏼‍💻 working as a web developer since 2024
-
+<h1 align="center">Hey there 👋 I'm Nicolette</h1>
+<h3 align="center">👩‍💻 Agile Software Developer | Full Stack Developer-in-Training | Proficient in React.js, C#, Node.js & Azure | Passionate About Solving Real-World Problems Through Scalable Software Solutions</h3>
+<h4 align="left">💡 About Me</h4> <ul> <li>🛠️ Currently building my personal <a href="#">webpage</a> to showcase my journey and projects.</li> <li>🎓 Pursuing Software Engineering at <b>CTU Training Solutions</b>, developing strong foundations in agile methodologies and modern technologies.</li> <li>🌱 Actively learning advanced software development practices and cloud computing.</li> <li>👩‍💻 Working as a <b>Web Developer</b> since 2024, specializing in crafting responsive and user-friendly interfaces.</li> <li>🚀 Aspiring to be a dynamic Software Engineer making impactful contributions to the tech world.</li> </ul>
 
 <h3 align="left">🛠 Language and tools</h3>
 
