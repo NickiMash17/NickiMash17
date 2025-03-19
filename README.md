@@ -3,7 +3,7 @@
 <h1 align="center">✨ Hello, Digital World! I'm Nicolette ✨</h1>
 
 <div align="center">
-  <a href="https://techwavecom.vercel.app/">
+  <a href="https://nicolettemashaba.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:nene171408@gmail.com">
