@@ -6,7 +6,7 @@
   <a href="https://techwavecom.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:nene171408@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="www.linkedin.com/in/nicolette-mashaba-b094a5221/">
@@ -206,11 +206,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=1" alt="Spotify Recently Played" width="340px" />
-</div>
-
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/github-snake-dark.svg" />
