@@ -381,4 +381,55 @@
 
 <!-- Stylized Section Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Colorful Divider">
+</div>
+
+## 🎯 What's Next?
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="50%" alt="Future Goals"/>
+</div>
+
+- 🌍 **Open Source Contributions:** Planning to contribute to projects in the .NET ecosystem
+- 📝 **Tech Writing:** Developing a series on modern web architecture patterns
+- 🎤 **Public Speaking:** Preparing talks on cloud-native application development
+- 🏆 **Certifications:** Pursuing Azure Solutions Architect Expert certification
+
+<!-- Stylized Section Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Colorful Divider">
+</div>
+
+## 🎼 Coding Symphony
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem" alt="Spotify Playing" width="50%"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5xZ2VpYXFvY2FyZ3B4ZzZ2Z2V3bGQ1a3Z6dGJ1eGJ6d3B1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="100" alt="Music Note"/>
+  <em>Current coding soundtrack: Lo-fi beats to code/debug to</em>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5xZ2VpYXFvY2FyZ3B4ZzZ2Z2V3bGQ1a3Z6dGJ1eGJ6d3B1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="100" alt="Music Note"/>
+</div>
+
+<!-- Stylized Section Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Colorful Divider">
+</div>
+
+<div align="center">
+  <h3>🚀 Ready to Collaborate on Something Amazing?</h3>
+  <p>Whether it's a challenging project, an open-source contribution, or just tech talk - I'd love to connect!</p>
+  <a href="mailto:nene171408@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Me_An_Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+</div>
+
+<!-- Stylized Footer -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A177FE&width=435&lines=Keep+learning%2C+keep+building%2C+keep+innovating" alt="Footer Message"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NickiMash17&style=flat-square&color=blueviolet" alt="Profile Views Counter"/>
+</div>
