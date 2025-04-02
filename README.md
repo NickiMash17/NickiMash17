@@ -4,16 +4,16 @@
 
 <div align="center">
   <a href="https://nicolettemashaba.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" loading="lazy"/>
   </a>
   <a href="mailto:nene171408@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" loading="lazy"/>
   </a>
-  <a href="www.linkedin.com/in/nicolette-mashaba-b094a5221/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/nicolette-mashaba-b094a5221/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" loading="lazy"/>
   </a>
   <a href="https://x.com/m_neyi">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" loading="lazy"/>
   </a>
 </div>
 
@@ -24,16 +24,23 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A177FE&width=435&lines=Agile+Software+Developer;Full+Stack+Developer-in-Training;React.js+%7C+C%23+%7C+Azure+%7C+.NET;Building+digital+solutions+that+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A177FE&width=435&lines=Agile+Software+Developer;Full+Stack+Developer-in-Training;React.js+%7C+C%23+%7C+Azure+%7C+.NET;Building+digital+solutions+that+matter" alt="Typing SVG" loading="lazy"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NickiMash17&bg_color=141321&color=A77BF3&line=A77BF3&point=ffffff&area_color=FE428E&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%" loading="lazy"/>
+</div>
+
+<!-- Stylized Section Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Colorful Divider" loading="lazy">
+</div>
 
 ## 💫 About Me: The Journey
 
 > *"The code you write today is tomorrow's legacy."*
 
-<img align="right" height="270" width="450" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" height="270" width="450" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" loading="lazy"/>
 
 - 🔮 **Building:** My [personal digital playground](https://techwavecom.vercel.app/) to showcase my tech adventures
 - 🎓 **Learning:** Software Engineering at **CTU Training Solutions** & expanding my horizons at **Techbridlefoundation**
@@ -45,81 +52,104 @@
 
 <br clear="right"/>
 
----
+<!-- Stylized Section Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Colorful Divider" loading="lazy">
+</div>
 
 ## 🧠 Technical Universe
 
 <details>
 <summary><b>🛠️ Languages & Tools Arsenal</b></summary>
 <br>
+<!-- Front-end Technologies -->
+<h4>🎨 Front-end</h4>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" loading="lazy"/>
+</div>
+
+<!-- Back-end Technologies -->
+<h4>⚙️ Back-end</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" loading="lazy"/>
+</div>
+
+<!-- Cloud & DevOps -->
+<h4>☁️ Cloud & DevOps</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo" loading="lazy"/>
+</div>
+
+<!-- Tools & Environments -->
+<h4>🔧 Tools & Environments</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" loading="lazy"/>
+</div>
+
+<!-- Databases -->
+<h4>🗄️ Databases</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" loading="lazy"/>
+</div>
+
+<!-- Design & Creative -->
+<h4>🎨 Design & Creative</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" loading="lazy"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" loading="lazy"/>
 </div>
 </details>
 
@@ -133,7 +163,10 @@
 </div>
 </details>
 
----
+<!-- Stylized Section Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Colorful Divider" loading="lazy">
+</div>
 
 ## 🌟 Digital Creations & Milestones
 
@@ -144,22 +177,40 @@
         <h3 align="center">🏡 Real Estate Platform</h3>
         <p align="center">
           <a href="#" target="_blank">
-            <img src="https://media.giphy.com/media/JQpOCgnGfDcQfQJjYk/giphy.gif" width="100%" alt="Real Estate Project"/>
+            <img src="https://media.giphy.com/media/JQpOCgnGfDcQfQJjYk/giphy.gif" width="100%" alt="Real Estate Project" loading="lazy"/>
           </a>
         </p>
         <p align="center">
           Full-stack MERN application with interactive maps and advanced search filters
+        </p>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/View_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="View Demo" loading="lazy"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" loading="lazy"/>
+          </a>
+          <img src="https://img.shields.io/badge/Status-Completed-4CAF50?style=for-the-badge" alt="Status" loading="lazy"/>
         </p>
       </td>
       <td width="50%">
         <h3 align="center">📊 Data Visualization Tool</h3>
         <p align="center">
           <a href="#" target="_blank">
-            <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="Data Analysis Project"/>
+            <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="Data Analysis Project" loading="lazy"/>
           </a>
         </p>
         <p align="center">
           Python-based analytics dashboard for transforming business data into actionable insights
+        </p>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/View_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="View Demo" loading="lazy"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" loading="lazy"/>
+          </a>
+          <img src="https://img.shields.io/badge/Status-In_Progress-FFC107?style=for-the-badge" alt="Status" loading="lazy"/>
         </p>
       </td>
     </tr>
@@ -168,66 +219,166 @@
         <h3 align="center">☁️ Cloud-Native Services</h3>
         <p align="center">
           <a href="#" target="_blank">
-            <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="100%" alt="Cloud Architecture"/>
+            <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="100%" alt="Cloud Architecture" loading="lazy"/>
           </a>
         </p>
         <p align="center">
           Azure microservices architecture with Kubernetes orchestration for high availability
+        </p>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/View_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="View Demo" loading="lazy"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" loading="lazy"/>
+          </a>
+          <img src="https://img.shields.io/badge/Status-Completed-4CAF50?style=for-the-badge" alt="Status" loading="lazy"/>
         </p>
       </td>
       <td width="50%">
         <h3 align="center">🔒 Identity Management</h3>
         <p align="center">
           <a href="#" target="_blank">
-            <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100%" alt="Security Project"/>
+            <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100%" alt="Security Project" loading="lazy"/>
           </a>
         </p>
         <p align="center">
           Secure authentication system using OAuth and .NET Identity with multi-factor authentication
+        </p>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/View_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="View Demo" loading="lazy"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" loading="lazy"/>
+          </a>
+          <img src="https://img.shields.io/badge/Status-Planning-9C27B0?style=for-the-badge" alt="Status" loading="lazy"/>
         </p>
       </td>
     </tr>
   </table>
 </div>
 
----
+<!-- Stylized Section Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Colorful Divider" loading="lazy">
+</div>
+
+## 📚 Latest Blog Posts
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="#" target="_blank">
+          <b>Building Resilient Microservices with .NET Core and Azure</b>
+        </a>
+        <br/>
+        <i>Published on April 1, 2025</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#" target="_blank">
+          <b>Mastering React State Management: Beyond Redux</b>
+        </a>
+        <br/>
+        <i>Published on March 15, 2025</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#" target="_blank">
+          <b>The Developer's Guide to Kubernetes Deployment Strategies</b>
+        </a>
+        <br/>
+        <i>Published on February 28, 2025</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Stylized Section Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Colorful Divider" loading="lazy">
+</div>
+
+## 🌱 Current Learning Journey
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Technology</th>
+      <th>Progress</th>
+      <th>Target Date</th>
+    </tr>
+    <tr>
+      <td>Advanced Azure Cloud Architecture</td>
+      <td>
+        <img src="https://progress-bar.dev/75/" alt="75%" loading="lazy"/>
+      </td>
+      <td>May 2025</td>
+    </tr>
+    <tr>
+      <td>GraphQL API Development</td>
+      <td>
+        <img src="https://progress-bar.dev/60/" alt="60%" loading="lazy"/>
+      </td>
+      <td>June 2025</td>
+    </tr>
+    <tr>
+      <td>Machine Learning with Python</td>
+      <td>
+        <img src="https://progress-bar.dev/40/" alt="40%" loading="lazy"/>
+      </td>
+      <td>August 2025</td>
+    </tr>
+  </table>
+</div>
+
+<!-- Stylized Section Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Colorful Divider" loading="lazy">
+</div>
 
 ## 📊 Developer Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NickiMash17&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickiMash17&theme=radical&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickiMash17&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=NickiMash17&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="55%" loading="lazy"/> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickiMash17&theme=radical&hide_border=true" width="50%" loading="lazy"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickiMash17&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" loading="lazy"/> </br>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NickiMash17&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="80%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NickiMash17&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="80%" loading="lazy"/>
 </div>
 
----
+<!-- Stylized Section Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Colorful Divider" loading="lazy">
+</div>
 
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/github-snake.svg" />
-</picture>
-
----
+## 💬 Testimonials
 
 <div align="center">
-  
-## 📬 Let's Connect & Collaborate
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](#) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/reney_717) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nicolette-mashaba-b094a5221/) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/m_neyi) 
-
+  <table>
+    <tr>
+      <td width="50%">
+        <blockquote>
+          "Nicolette's technical expertise and problem-solving abilities are exceptional. She consistently delivers high-quality solutions with a focus on scalability and maintainability."
+        </blockquote>
+        <p align="right"><em>— Project Manager at TechWave</em></p>
+      </td>
+      <td width="50%">
+        <blockquote>
+          "Working with Nicolette has been a game-changer for our team. Her cloud architecture knowledge and implementation skills have significantly improved our system reliability."
+        </blockquote>
+        <p align="right"><em>— Lead Developer at CloudSolutions</em></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<!-- Stylized Section Divider -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NickiMash17&style=flat-square&color=blueviolet" alt="Profile Views Counter"/>
-</div>
-
-<div align="center">
-  <h4>"Code is like humor. When you have to explain it, it's bad." - Cory House</h4>
-</div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47
