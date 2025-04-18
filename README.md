@@ -402,13 +402,30 @@
 ## 🎼 Coding Symphony
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=317zc24pnfufnhz7w2lghbx4cdau&cover_image=true&theme=novatorem" alt="Spotify Playing" width="50%"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" alt="Music Animation" width="200px"/>
+      </td>
+      <td>
+        <h4>🎧 Currently Coding To:</h4>
+        <ul align="left">
+          <li>Lo-fi Beats</li>
+          <li>Tech House</li>
+          <li>Classical Piano</li>
+        </ul>
+        <a href="https://open.spotify.com/user/317zc24pnfufnhx7w2lghbx4cdau">
+          <img src="https://img.shields.io/badge/Follow%20on%20Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5xZ2VpYXFvY2FyZ3B4ZzZ2Z2V3bGQ1a3Z6dGJ1eGJ6d3B1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="100" alt="Music Note"/>
-  <em>Current coding soundtrack: Lo-fi beats to code/debug to</em>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5xZ2VpYXFvY2FyZ3B4ZzZ2Z2V3bGQ1a3Z6dGJ1eGJ6d3B1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="100" alt="Music Note"/>
+  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="100" alt="Music Note"/>
+  <em>Music fuels my code</em>
+  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="100" alt="Music Note"/>
 </div>
 
 <!-- Stylized Section Divider -->
