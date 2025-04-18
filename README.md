@@ -315,21 +315,27 @@
     <tr>
       <td>Advanced Azure Cloud Architecture</td>
       <td>
-        <img src="https://progress-bar.dev/75/" alt="75%" loading="lazy"/>
+        <img src="https://raw.githubusercontent.com/NickiMash17/NickiMash17/main/assets/progress-75.svg" alt="75%" loading="lazy"/>
+        <!-- Alternative: -->
+        <!-- ![75%](https://progress-bar.dev/75/) -->
       </td>
       <td>May 2025</td>
     </tr>
     <tr>
       <td>GraphQL API Development</td>
       <td>
-        <img src="https://progress-bar.dev/60/" alt="60%" loading="lazy"/>
+        <img src="https://raw.githubusercontent.com/NickiMash17/NickiMash17/main/assets/progress-60.svg" alt="60%" loading="lazy"/>
+        <!-- Alternative: -->
+        <!-- ![60%](https://progress-bar.dev/60/) -->
       </td>
       <td>June 2025</td>
     </tr>
     <tr>
       <td>Machine Learning with Python</td>
       <td>
-        <img src="https://progress-bar.dev/40/" alt="40%" loading="lazy"/>
+        <img src="https://raw.githubusercontent.com/NickiMash17/NickiMash17/main/assets/progress-40.svg" alt="40%" loading="lazy"/>
+        <!-- Alternative: -->
+        <!-- ![40%](https://progress-bar.dev/40/) -->
       </td>
       <td>August 2025</td>
     </tr>
