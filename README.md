@@ -409,7 +409,7 @@
 ## 🎼 Coding Symphony
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem" alt="Spotify Playing" width="50%"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=317zc24pnfufnhz7w2lghbx4cdau&cover_image=true&theme=novatorem" alt="Spotify Playing" width="50%"/>
 </div>
 
 <div align="center">
