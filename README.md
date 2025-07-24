@@ -33,7 +33,7 @@
 
 ## 🚀 **THE ARCHITECT BEHIND THE CODE**
 
-<img align="right" height="300" width="400" alt="Coding Animation" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" height="300" width="400" alt="Coding Animation" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOSE/giphy.gif" />
 
 ```typescript
 class SoftwareArchitect {
@@ -232,25 +232,25 @@ class SoftwareArchitect {
     <tbody>
       <tr>
         <td><b>Azure Solutions Architect</b></td>
-        <td><img src="https://progress-bar.dev/85/?scale=100&title=85%&width=120&color=00d9ff" /></td>
+        <td><img src="https://img.shields.io/badge/85%25-Complete-00d9ff?style=flat&labelColor=gray" /></td>
         <td>May 2025</td>
         <td>Enterprise Cloud Leadership</td>
       </tr>
       <tr>
         <td><b>AI/ML Integration</b></td>
-        <td><img src="https://progress-bar.dev/65/?scale=100&title=65%&width=120&color=ff6b35" /></td>
+        <td><img src="https://img.shields.io/badge/65%25-In_Progress-ff6b35?style=flat&labelColor=gray" /></td>
         <td>July 2025</td>
         <td>Intelligent Applications</td>
       </tr>
       <tr>
         <td><b>Kubernetes Expert</b></td>
-        <td><img src="https://progress-bar.dev/70/?scale=100&title=70%&width=120&color=00d9ff" /></td>
+        <td><img src="https://img.shields.io/badge/70%25-In_Progress-00d9ff?style=flat&labelColor=gray" /></td>
         <td>June 2025</td>
         <td>Container Orchestration</td>
       </tr>
       <tr>
         <td><b>System Design Mastery</b></td>
-        <td><img src="https://progress-bar.dev/80/?scale=100&title=80%&width=120&color=ff6b35" /></td>
+        <td><img src="https://img.shields.io/badge/80%25-Advanced-ff6b35?style=flat&labelColor=gray" /></td>
         <td>August 2025</td>
         <td>Scalable Architecture</td>
       </tr>
