@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://nicolettemashaba.vercel.app/">
+  <a href="[https://nicolettemashaba.vercel.app/](https://nickimash.vercel.app/)">
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-FF6B35?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000" alt="Portfolio" />
   </a>
   <a href="mailto:nene171408@gmail.com">
