@@ -33,7 +33,7 @@
 
 ## 🚀 **THE ARCHITECT BEHIND THE CODE**
 
-<img align="right" height="300" width="400" alt="Coding Animation" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOSE/giphy.gif" />
+<img align="right" height="300" width="400" alt="Coding Animation" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ```typescript
 class SoftwareArchitect {
