@@ -1,4 +1,294 @@
-<img src="banner.jpeg" alt="GitHub Banner" width="100%" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nicolette Mashaba - GitHub Banner</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        .banner {
+            width: 100%;
+            height: 400px;
+            background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 25%, #16213e 50%, #0f0f23 75%, #1a1a2e 100%);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Arial', sans-serif;
+        }
+        
+        .banner::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(circle at 20% 80%, rgba(0, 217, 255, 0.1) 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, rgba(255, 107, 53, 0.1) 0%, transparent 50%);
+        }
+        
+        .floating-icons {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            overflow: hidden;
+        }
+        
+        .icon {
+            position: absolute;
+            color: rgba(0, 217, 255, 0.3);
+            font-size: 24px;
+            animation: float 6s ease-in-out infinite;
+        }
+        
+        .icon:nth-child(2) { 
+            top: 20%; left: 15%; 
+            animation-delay: -1s; 
+            color: rgba(255, 107, 53, 0.3);
+        }
+        .icon:nth-child(3) { 
+            top: 70%; left: 85%; 
+            animation-delay: -2s; 
+        }
+        .icon:nth-child(4) { 
+            top: 30%; left: 75%; 
+            animation-delay: -3s; 
+            color: rgba(255, 107, 53, 0.3);
+        }
+        .icon:nth-child(5) { 
+            top: 80%; left: 25%; 
+            animation-delay: -4s; 
+        }
+        .icon:nth-child(6) { 
+            top: 15%; left: 90%; 
+            animation-delay: -5s; 
+            color: rgba(255, 107, 53, 0.3);
+        }
+        
+        @keyframes float {
+            0%, 100% { transform: translateY(0px) rotate(0deg); }
+            25% { transform: translateY(-20px) rotate(90deg); }
+            50% { transform: translateY(0px) rotate(180deg); }
+            75% { transform: translateY(-10px) rotate(270deg); }
+        }
+        
+        .content {
+            text-align: center;
+            z-index: 10;
+            position: relative;
+        }
+        
+        .name {
+            font-size: 3.5rem;
+            font-weight: 700;
+            background: linear-gradient(45deg, #00d9ff, #ff6b35, #00d9ff);
+            background-size: 200% 200%;
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: gradientShift 3s ease infinite;
+            margin-bottom: 1rem;
+            letter-spacing: 2px;
+        }
+        
+        @keyframes gradientShift {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        
+        .roles {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            flex-wrap: wrap;
+            margin-bottom: 2rem;
+        }
+        
+        .role {
+            background: rgba(0, 217, 255, 0.1);
+            border: 1px solid rgba(0, 217, 255, 0.3);
+            padding: 0.7rem 1.5rem;
+            border-radius: 25px;
+            color: #00d9ff;
+            font-size: 1rem;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+            position: relative;
+        }
+        
+        .role:nth-child(even) {
+            background: rgba(255, 107, 53, 0.1);
+            border-color: rgba(255, 107, 53, 0.3);
+            color: #ff6b35;
+        }
+        
+        .role:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(0, 217, 255, 0.2);
+            background: rgba(0, 217, 255, 0.2);
+        }
+        
+        .role:nth-child(even):hover {
+            box-shadow: 0 8px 25px rgba(255, 107, 53, 0.2);
+            background: rgba(255, 107, 53, 0.2);
+        }
+        
+        .tagline {
+            color: #ffffff;
+            font-size: 1.2rem;
+            font-weight: 300;
+            max-width: 600px;
+            margin: 0 auto;
+            line-height: 1.6;
+            opacity: 0.9;
+        }
+        
+        .tech-stack {
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 1rem;
+            opacity: 0.6;
+        }
+        
+        .tech-icon {
+            width: 30px;
+            height: 30px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #ffffff;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        
+        .tech-icon:hover {
+            background: rgba(0, 217, 255, 0.3);
+            transform: scale(1.2);
+        }
+        
+        .circuit-pattern {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            opacity: 0.03;
+            background-image: 
+                linear-gradient(90deg, #00d9ff 1px, transparent 1px),
+                linear-gradient(#00d9ff 1px, transparent 1px);
+            background-size: 50px 50px;
+            animation: circuitMove 20s linear infinite;
+        }
+        
+        @keyframes circuitMove {
+            0% { transform: translate(0, 0); }
+            100% { transform: translate(50px, 50px); }
+        }
+        
+        @media (max-width: 768px) {
+            .name {
+                font-size: 2.5rem;
+            }
+            .roles {
+                gap: 1rem;
+            }
+            .role {
+                font-size: 0.9rem;
+                padding: 0.5rem 1rem;
+            }
+            .tagline {
+                font-size: 1rem;
+                padding: 0 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="banner">
+        <div class="circuit-pattern"></div>
+        
+        <div class="floating-icons">
+            <div class="icon">⚡</div>
+            <div class="icon">🔧</div>
+            <div class="icon">☁️</div>
+            <div class="icon">🤖</div>
+            <div class="icon">🛠️</div>
+            <div class="icon">🚀</div>
+        </div>
+        
+        <div class="content">
+            <div class="name">NICOLETTE MASHABA</div>
+            
+            <div class="roles">
+                <div class="role">Software Engineer</div>
+                <div class="role">AI/ML Engineer</div>
+                <div class="role">Cloud Engineer</div>
+                <div class="role">DevOps Engineer</div>
+            </div>
+            
+            <div class="tagline">
+                Architecting intelligent solutions • Building scalable systems • Automating the future
+            </div>
+        </div>
+        
+        <div class="tech-stack">
+            <div class="tech-icon">.NET</div>
+            <div class="tech-icon">⚛️</div>
+            <div class="tech-icon">☁️</div>
+            <div class="tech-icon">🐳</div>
+            <div class="tech-icon">⚙️</div>
+            <div class="tech-icon">🧠</div>
+        </div>
+    </div>
+
+    <script>
+        // Add some interactive elements
+        document.addEventListener('mousemove', (e) => {
+            const banner = document.querySelector('.banner');
+            const rect = banner.getBoundingClientRect();
+            const x = (e.clientX - rect.left) / rect.width;
+            const y = (e.clientY - rect.top) / rect.height;
+            
+            banner.style.background = `
+                radial-gradient(circle at ${x * 100}% ${y * 100}%, 
+                rgba(0, 217, 255, 0.15) 0%, 
+                rgba(255, 107, 53, 0.1) 25%, 
+                rgba(15, 15, 35, 1) 50%)
+            `;
+        });
+
+        // Animate tech icons on hover
+        document.querySelectorAll('.tech-icon').forEach(icon => {
+            icon.addEventListener('mouseenter', () => {
+                icon.style.transform = 'scale(1.3) rotate(360deg)';
+                icon.style.background = 'rgba(0, 217, 255, 0.3)';
+            });
+            
+            icon.addEventListener('mouseleave', () => {
+                icon.style.transform = 'scale(1) rotate(0deg)';
+                icon.style.background = 'rgba(255, 255, 255, 0.1)';
+            });
+        });
+    </script>
+</body>
+</html>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+NICOLETTE+MASHABA+✨;Code+Architect+%7C+Cloud+Engineer+%7C+Full-Stack+Visionary" alt="Dynamic Title" />
