@@ -1,4 +1,4 @@
-<img src="banner.jpeg" alt="GitHub Banner" width="100%" />
+<img src="banner.png" alt="GitHub Banner" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+NICOLETTE+MASHABA+✨;Code+Architect+%7C+Cloud+Engineer+%7C+Full-Stack+Visionary" alt="Dynamic Title" />
