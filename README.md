@@ -1,13 +1,9 @@
-<img src="banner.png" alt="GitHub Banner" width="100%" />
+<img src="banner.jpeg" alt="GitHub Banner" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+NICOLETTE+MASHABA+✨;Code+Architect+%7C+Cloud+Engineer+%7C+Full-Stack+Visionary" alt="Dynamic Title" />
 </div>
 
-<img src="banner.png" alt="GitHub Banner" width="100%" />
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+NICOLETTE+MASHABA+✨;Software+Developer+%7C+AI+Engineer+%7C+DevOps+Specialist" alt="Dynamic Title" />
-</div>
 <div align="center">
   <a href="https://nickimash.vercel.app/">
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-FF6B35?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000" alt="Portfolio" />
@@ -22,10 +18,14 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter" />
   </a>
 </div>
+
 <br />
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NickiMash17&bg_color=0d1117&color=00d9ff&line=ff6b35&point=ffffff&area=true&area_color=00d9ff&hide_border=true&radius=10" alt="GitHub Activity Graph" width="95%" />
 </div>
+
+---
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Divider" />
