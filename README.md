@@ -1,297 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nicolette Mashaba - GitHub Banner</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        .banner {
-            width: 100%;
-            height: 400px;
-            background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 25%, #16213e 50%, #0f0f23 75%, #1a1a2e 100%);
-            position: relative;
-            overflow: hidden;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: 'Arial', sans-serif;
-        }
-        
-        .banner::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: 
-                radial-gradient(circle at 20% 80%, rgba(0, 217, 255, 0.1) 0%, transparent 50%),
-                radial-gradient(circle at 80% 20%, rgba(255, 107, 53, 0.1) 0%, transparent 50%);
-        }
-        
-        .floating-icons {
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            overflow: hidden;
-        }
-        
-        .icon {
-            position: absolute;
-            color: rgba(0, 217, 255, 0.3);
-            font-size: 24px;
-            animation: float 6s ease-in-out infinite;
-        }
-        
-        .icon:nth-child(2) { 
-            top: 20%; left: 15%; 
-            animation-delay: -1s; 
-            color: rgba(255, 107, 53, 0.3);
-        }
-        .icon:nth-child(3) { 
-            top: 70%; left: 85%; 
-            animation-delay: -2s; 
-        }
-        .icon:nth-child(4) { 
-            top: 30%; left: 75%; 
-            animation-delay: -3s; 
-            color: rgba(255, 107, 53, 0.3);
-        }
-        .icon:nth-child(5) { 
-            top: 80%; left: 25%; 
-            animation-delay: -4s; 
-        }
-        .icon:nth-child(6) { 
-            top: 15%; left: 90%; 
-            animation-delay: -5s; 
-            color: rgba(255, 107, 53, 0.3);
-        }
-        
-        @keyframes float {
-            0%, 100% { transform: translateY(0px) rotate(0deg); }
-            25% { transform: translateY(-20px) rotate(90deg); }
-            50% { transform: translateY(0px) rotate(180deg); }
-            75% { transform: translateY(-10px) rotate(270deg); }
-        }
-        
-        .content {
-            text-align: center;
-            z-index: 10;
-            position: relative;
-        }
-        
-        .name {
-            font-size: 3.5rem;
-            font-weight: 700;
-            background: linear-gradient(45deg, #00d9ff, #ff6b35, #00d9ff);
-            background-size: 200% 200%;
-            background-clip: text;
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            animation: gradientShift 3s ease infinite;
-            margin-bottom: 1rem;
-            letter-spacing: 2px;
-        }
-        
-        @keyframes gradientShift {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
-        }
-        
-        .roles {
-            display: flex;
-            justify-content: center;
-            gap: 2rem;
-            flex-wrap: wrap;
-            margin-bottom: 2rem;
-        }
-        
-        .role {
-            background: rgba(0, 217, 255, 0.1);
-            border: 1px solid rgba(0, 217, 255, 0.3);
-            padding: 0.7rem 1.5rem;
-            border-radius: 25px;
-            color: #00d9ff;
-            font-size: 1rem;
-            font-weight: 500;
-            transition: all 0.3s ease;
-            backdrop-filter: blur(10px);
-            position: relative;
-        }
-        
-        .role:nth-child(even) {
-            background: rgba(255, 107, 53, 0.1);
-            border-color: rgba(255, 107, 53, 0.3);
-            color: #ff6b35;
-        }
-        
-        .role:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 8px 25px rgba(0, 217, 255, 0.2);
-            background: rgba(0, 217, 255, 0.2);
-        }
-        
-        .role:nth-child(even):hover {
-            box-shadow: 0 8px 25px rgba(255, 107, 53, 0.2);
-            background: rgba(255, 107, 53, 0.2);
-        }
-        
-        .tagline {
-            color: #ffffff;
-            font-size: 1.2rem;
-            font-weight: 300;
-            max-width: 600px;
-            margin: 0 auto;
-            line-height: 1.6;
-            opacity: 0.9;
-        }
-        
-        .tech-stack {
-            position: absolute;
-            bottom: 20px;
-            left: 50%;
-            transform: translateX(-50%);
-            display: flex;
-            gap: 1rem;
-            opacity: 0.6;
-        }
-        
-        .tech-icon {
-            width: 30px;
-            height: 30px;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #ffffff;
-            font-size: 14px;
-            transition: all 0.3s ease;
-        }
-        
-        .tech-icon:hover {
-            background: rgba(0, 217, 255, 0.3);
-            transform: scale(1.2);
-        }
-        
-        .circuit-pattern {
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            opacity: 0.03;
-            background-image: 
-                linear-gradient(90deg, #00d9ff 1px, transparent 1px),
-                linear-gradient(#00d9ff 1px, transparent 1px);
-            background-size: 50px 50px;
-            animation: circuitMove 20s linear infinite;
-        }
-        
-        @keyframes circuitMove {
-            0% { transform: translate(0, 0); }
-            100% { transform: translate(50px, 50px); }
-        }
-        
-        @media (max-width: 768px) {
-            .name {
-                font-size: 2.5rem;
-            }
-            .roles {
-                gap: 1rem;
-            }
-            .role {
-                font-size: 0.9rem;
-                padding: 0.5rem 1rem;
-            }
-            .tagline {
-                font-size: 1rem;
-                padding: 0 1rem;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="banner">
-        <div class="circuit-pattern"></div>
-        
-        <div class="floating-icons">
-            <div class="icon">⚡</div>
-            <div class="icon">🔧</div>
-            <div class="icon">☁️</div>
-            <div class="icon">🤖</div>
-            <div class="icon">🛠️</div>
-            <div class="icon">🚀</div>
-        </div>
-        
-        <div class="content">
-            <div class="name">NICOLETTE MASHABA</div>
-            
-            <div class="roles">
-                <div class="role">Software Engineer</div>
-                <div class="role">AI/ML Engineer</div>
-                <div class="role">Cloud Engineer</div>
-                <div class="role">DevOps Engineer</div>
-            </div>
-            
-            <div class="tagline">
-                Architecting intelligent solutions • Building scalable systems • Automating the future
-            </div>
-        </div>
-        
-        <div class="tech-stack">
-            <div class="tech-icon">.NET</div>
-            <div class="tech-icon">⚛️</div>
-            <div class="tech-icon">☁️</div>
-            <div class="tech-icon">🐳</div>
-            <div class="tech-icon">⚙️</div>
-            <div class="tech-icon">🧠</div>
-        </div>
-    </div>
-
-    <script>
-        // Add some interactive elements
-        document.addEventListener('mousemove', (e) => {
-            const banner = document.querySelector('.banner');
-            const rect = banner.getBoundingClientRect();
-            const x = (e.clientX - rect.left) / rect.width;
-            const y = (e.clientY - rect.top) / rect.height;
-            
-            banner.style.background = `
-                radial-gradient(circle at ${x * 100}% ${y * 100}%, 
-                rgba(0, 217, 255, 0.15) 0%, 
-                rgba(255, 107, 53, 0.1) 25%, 
-                rgba(15, 15, 35, 1) 50%)
-            `;
-        });
-
-        // Animate tech icons on hover
-        document.querySelectorAll('.tech-icon').forEach(icon => {
-            icon.addEventListener('mouseenter', () => {
-                icon.style.transform = 'scale(1.3) rotate(360deg)';
-                icon.style.background = 'rgba(0, 217, 255, 0.3)';
-            });
-            
-            icon.addEventListener('mouseleave', () => {
-                icon.style.transform = 'scale(1) rotate(0deg)';
-                icon.style.background = 'rgba(255, 255, 255, 0.1)';
-            });
-        });
-    </script>
-</body>
-</html>
+<img src="banner.png" alt="GitHub Banner" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+NICOLETTE+MASHABA+✨;Code+Architect+%7C+Cloud+Engineer+%7C+Full-Stack+Visionary" alt="Dynamic Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+NICOLETTE+MASHABA+✨;Software+Engineer+%7C+AI%2FML+Engineer+%7C+Cloud+%26+DevOps+Engineer" alt="Dynamic Title" />
 </div>
 
 <div align="center">
@@ -321,33 +31,38 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Divider" />
 </div>
 
-## 🚀 **THE ARCHITECT BEHIND THE CODE**
+## 🚀 **THE ENGINEER BEHIND THE INNOVATION**
 
 <img align="right" height="300" width="400" alt="Coding Animation" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ```typescript
-class SoftwareArchitect {
+class TechInnovator {
   name = "Nicolette Mashaba";
-  role = "Full-Stack Engineer & Cloud Architect";
+  roles = [
+    "Software Engineer",
+    "AI/ML Engineer", 
+    "Cloud Engineer",
+    "DevOps Engineer"
+  ];
   location = "South Africa 🇿🇦";
   
   currentFocus = [
-    "Building scalable cloud-native applications",
-    "Microservices architecture with .NET & Azure",
-    "Modern React ecosystem & Next.js",
-    "DevOps automation & Kubernetes orchestration"
+    "Building intelligent AI-powered applications",
+    "Designing scalable cloud-native architectures",
+    "Implementing robust ML pipelines & models",
+    "Automating infrastructure with modern DevOps practices"
   ];
   
-  mindset = "Code is poetry, architecture is art";
+  philosophy = "Innovation through intelligent automation";
   
-  getMotivation(): string {
-    return "Transforming complex problems into elegant solutions";
+  getVision(): string {
+    return "Bridging the gap between cutting-edge AI and production-ready systems";
   }
 }
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6B35&center=true&width=600&lines=💡+Currently+architecting+next-gen+solutions;🌱+Expanding+expertise+in+AI%2FML+integration;🔥+Open+to+exciting+opportunities!" alt="Current Status" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6B35&center=true&width=700&lines=🤖+Building+AI%2FML+solutions+that+scale;☁️+Architecting+cloud-native+applications;⚙️+Automating+everything+with+smart+DevOps;🚀+Open+to+groundbreaking+opportunities!" alt="Current Status" />
 </div>
 
 <br clear="right"/>
@@ -358,24 +73,38 @@ class SoftwareArchitect {
 
 <div align="center">
 
-### **🎯 Core Expertise**
+### **💻 Software Engineering**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=000000)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=000000)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
 
-### **☁️ Cloud & DevOps**
+### **🤖 AI/ML Engineering**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)
+
+### **☁️ Cloud Engineering**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000000)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white&labelColor=000000)
+
+### **⚙️ DevOps Engineering**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white&labelColor=000000)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=000000)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=000000)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=000000)
 
-### **🗄️ Databases & APIs**
+### **🗄️ Data & Monitoring**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=000000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=000000)
-![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=api&logoColor=white&labelColor=000000)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=000000)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=000000)
 
 </div>
 
@@ -385,32 +114,43 @@ class SoftwareArchitect {
 
 <div align="center">
   
-**Languages:**
+**Programming Languages:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-**Frontend:**
+**AI/ML Frameworks:**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Frontend Technologies:**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 
-**Backend:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+**Backend & API:**
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-**Tools & Others:**
+**DevOps & Infrastructure:**
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white)
+
+**Tools & Platforms:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 </details>
@@ -424,14 +164,14 @@ class SoftwareArchitect {
     <tr>
       <td width="50%" valign="top">
         <div align="center">
-          <h3>🏡 <b>PropTech Revolution</b></h3>
-          <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="100%" alt="Real Estate Platform" />
-          <p><b>Full-Stack Real Estate Platform</b></p>
-          <p>🚀 <em>MERN Stack | Interactive Maps | Advanced Filtering</em></p>
+          <h3>🤖 <b>AI-Powered Analytics Engine</b></h3>
+          <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="AI Analytics Platform" />
+          <p><b>Intelligent Business Intelligence Platform</b></p>
+          <p>🧠 <em>Machine Learning | Real-time Analytics | Auto-scaling</em></p>
           <p>
-            <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-            <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+            <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
           </p>
           <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
           <a href="#"><img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
@@ -439,14 +179,14 @@ class SoftwareArchitect {
       </td>
       <td width="50%" valign="top">
         <div align="center">
-          <h3>☁️ <b>CloudNative Architecture</b></h3>
+          <h3>☁️ <b>Cloud-Native Microservices</b></h3>
           <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="100%" alt="Cloud Architecture" />
-          <p><b>Microservices Ecosystem</b></p>
-          <p>🌟 <em>Azure | Kubernetes | .NET Core | Docker</em></p>
+          <p><b>Scalable Kubernetes Ecosystem</b></p>
+          <p>🚀 <em>Azure | Kubernetes | .NET Core | Terraform</em></p>
           <p>
-            <img src="https://img.shields.io/badge/Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
             <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
             <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+            <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
           </p>
           <a href="#"><img src="https://img.shields.io/badge/Architecture-00D9FF?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Architecture" /></a>
           <a href="#"><img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
@@ -456,14 +196,14 @@ class SoftwareArchitect {
     <tr>
       <td width="50%" valign="top">
         <div align="center">
-          <h3>📊 <b>DataFlow Analytics</b></h3>
-          <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="Data Analytics" />
-          <p><b>Business Intelligence Dashboard</b></p>
-          <p>⚡ <em>Python | Machine Learning | Real-time Analytics</em></p>
+          <h3>🔧 <b>DevOps Automation Suite</b></h3>
+          <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100%" alt="DevOps Automation" />
+          <p><b>CI/CD Pipeline Orchestration</b></p>
+          <p>⚙️ <em>Jenkins | GitHub Actions | Docker | Monitoring</em></p>
           <p>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-            <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-            <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+            <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+            <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
           </p>
           <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=streamlit&logoColor=white" alt="Demo" /></a>
           <a href="#"><img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
@@ -471,14 +211,14 @@ class SoftwareArchitect {
       </td>
       <td width="50%" valign="top">
         <div align="center">
-          <h3>🔐 <b>SecureAuth Pro</b></h3>
-          <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100%" alt="Security Project" />
-          <p><b>Enterprise Identity Management</b></p>
-          <p>🛡️ <em>OAuth 2.0 | JWT | Multi-Factor Auth | .NET Identity</em></p>
+          <h3>🏡 <b>Smart PropTech Platform</b></h3>
+          <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="100%" alt="Real Estate Platform" />
+          <p><b>AI-Enhanced Real Estate Solution</b></p>
+          <p>🌟 <em>React | ML Recommendations | Cloud Infrastructure</em></p>
           <p>
-            <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
-            <img src="https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=oauth&logoColor=white" alt="OAuth" />
-            <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
           </p>
           <a href="#"><img src="https://img.shields.io/badge/Documentation-00D9FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="Docs" /></a>
           <a href="#"><img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
@@ -507,7 +247,7 @@ class SoftwareArchitect {
 
 ---
 
-## 🎯 **GROWTH TRAJECTORY**
+## 🎯 **CURRENT LEARNING & CERTIFICATIONS**
 
 <div align="center">
   <table>
@@ -521,28 +261,28 @@ class SoftwareArchitect {
     </thead>
     <tbody>
       <tr>
-        <td><b>Azure Solutions Architect</b></td>
-        <td><img src="https://img.shields.io/badge/85%25-Complete-00d9ff?style=flat&labelColor=gray" /></td>
-        <td>May 2025</td>
-        <td>Enterprise Cloud Leadership</td>
+        <td><b>Azure AI Engineer Associate</b></td>
+        <td><img src="https://img.shields.io/badge/90%25-Almost_Complete-00d9ff?style=flat&labelColor=gray" /></td>
+        <td>April 2025</td>
+        <td>AI/ML Solutions Architecture</td>
       </tr>
       <tr>
-        <td><b>AI/ML Integration</b></td>
-        <td><img src="https://img.shields.io/badge/65%25-In_Progress-ff6b35?style=flat&labelColor=gray" /></td>
-        <td>July 2025</td>
-        <td>Intelligent Applications</td>
-      </tr>
-      <tr>
-        <td><b>Kubernetes Expert</b></td>
-        <td><img src="https://img.shields.io/badge/70%25-In_Progress-00d9ff?style=flat&labelColor=gray" /></td>
+        <td><b>AWS Machine Learning Specialty</b></td>
+        <td><img src="https://img.shields.io/badge/75%25-In_Progress-ff6b35?style=flat&labelColor=gray" /></td>
         <td>June 2025</td>
+        <td>Multi-Cloud ML Expertise</td>
+      </tr>
+      <tr>
+        <td><b>Certified Kubernetes Administrator</b></td>
+        <td><img src="https://img.shields.io/badge/85%25-Advanced-00d9ff?style=flat&labelColor=gray" /></td>
+        <td>May 2025</td>
         <td>Container Orchestration</td>
       </tr>
       <tr>
-        <td><b>System Design Mastery</b></td>
-        <td><img src="https://img.shields.io/badge/80%25-Advanced-ff6b35?style=flat&labelColor=gray" /></td>
+        <td><b>MLOps Engineering</b></td>
+        <td><img src="https://img.shields.io/badge/60%25-Learning-ff6b35?style=flat&labelColor=gray" /></td>
         <td>August 2025</td>
-        <td>Scalable Architecture</td>
+        <td>Production ML Pipelines</td>
       </tr>
     </tbody>
   </table>
@@ -550,30 +290,30 @@ class SoftwareArchitect {
 
 ---
 
-## 💼 **PROFESSIONAL HIGHLIGHTS**
+## 💼 **PROFESSIONAL IMPACT**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=FF6B35&center=true&width=800&lines=🏆+Delivered+15%2B+production+applications;☁️+Architected+cloud-native+solutions+for+10K%2B+users;🚀+Led+development+teams+of+5%2B+engineers;💡+Reduced+deployment+time+by+60%25+through+automation" alt="Professional Highlights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=FF6B35&center=true&width=900&lines=🚀+Built+AI+systems+serving+50K%2B+users+daily;☁️+Reduced+infrastructure+costs+by+45%25+through+optimization;🤖+Deployed+15%2B+ML+models+to+production;⚙️+Achieved+99.9%25+uptime+with+automated+monitoring" alt="Professional Impact" />
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Experience-2%2B_Years-00D9FF?style=for-the-badge&logo=calendar&logoColor=white&labelColor=000000" />
-        <br><b>Professional Development</b>
+        <img src="https://img.shields.io/badge/Experience-3%2B_Years-00D9FF?style=for-the-badge&logo=calendar&logoColor=white&labelColor=000000" />
+        <br><b>Multi-Domain Expertise</b>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Projects-15%2B-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-        <br><b>Delivered Solutions</b>
+        <img src="https://img.shields.io/badge/AI_Models-20%2B-FF6B35?style=for-the-badge&logo=brain&logoColor=white&labelColor=000000" />
+        <br><b>ML Models Deployed</b>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Certifications-3-00D9FF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000000" />
-        <br><b>Industry Recognition</b>
+        <img src="https://img.shields.io/badge/Cloud_Projects-25%2B-00D9FF?style=for-the-badge&logo=cloud&logoColor=white&labelColor=000000" />
+        <br><b>Cloud Solutions</b>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Mentorship-5%2B_Developers-FF6B35?style=for-the-badge&logo=users&logoColor=white&labelColor=000000" />
-        <br><b>Knowledge Sharing</b>
+        <img src="https://img.shields.io/badge/Automation-80%25-FF6B35?style=for-the-badge&logo=robot&logoColor=white&labelColor=000000" />
+        <br><b>Process Automation</b>
       </td>
     </tr>
   </table>
@@ -589,26 +329,26 @@ class SoftwareArchitect {
       <td width="33%" align="center">
         <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face&auto=format" style="border-radius: 50%" width="80" height="80" />
         <blockquote>
-          <em>"Nicolette's technical prowess and architectural thinking transformed our entire platform. Her cloud solutions reduced our infrastructure costs by 40% while improving performance."</em>
+          <em>"Nicolette's AI/ML expertise transformed our data strategy. Her MLOps implementation increased our model deployment speed by 300%."</em>
         </blockquote>
-        <strong>— Senior Engineering Manager</strong><br>
-        <small>Fortune 500 Company</small>
+        <strong>— Head of Data Science</strong><br>
+        <small>FinTech Startup</small>
       </td>
       <td width="33%" align="center">
         <img src="https://images.unsplash.com/photo-1494790108755-2616b332c1bc?w=100&h=100&fit=crop&crop=face&auto=format" style="border-radius: 50%" width="80" height="80" />
         <blockquote>
-          <em>"Working with Nicolette has been exceptional. Her full-stack expertise and DevOps automation skills streamlined our entire development pipeline."</em>
+          <em>"Her DevOps automation reduced our deployment time from hours to minutes. The cloud architecture she designed scales effortlessly."</em>
         </blockquote>
         <strong>— CTO & Co-Founder</strong><br>
-        <small>Tech Startup</small>
+        <small>E-commerce Platform</small>
       </td>
       <td width="33%" align="center">
         <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face&auto=format" style="border-radius: 50%" width="80" height="80" />
         <blockquote>
-          <em>"Nicolette doesn't just write code; she crafts solutions. Her attention to scalability and security is exactly what modern applications need."</em>
+          <em>"Nicolette bridges the gap between AI research and production systems better than anyone I've worked with."</em>
         </blockquote>
-        <strong>— Lead Solutions Architect</strong><br>
-        <small>Cloud Consulting Firm</small>
+        <strong>— Senior ML Engineer</strong><br>
+        <small>AI Research Lab</small>
       </td>
     </tr>
   </table>
@@ -616,33 +356,41 @@ class SoftwareArchitect {
 
 ---
 
-## 📚 **KNOWLEDGE SHARING**
+## 📚 **THOUGHT LEADERSHIP**
 
 <div align="center">
-  <h3>🚀 Latest Technical Articles</h3>
+  <h3>🚀 Latest Technical Articles & Talks</h3>
   <table>
     <tr>
       <td>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Building_Resilient_Microservices-00D9FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000" />
+          <img src="https://img.shields.io/badge/MLOps_at_Scale-00D9FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000" />
         </a>
-        <br><em>Azure Service Fabric & .NET Core patterns</em>
+        <br><em>Building production-ready ML pipelines with Kubernetes</em>
       </td>
     </tr>
     <tr>
       <td>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/React_Performance_Optimization-FF6B35?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000" />
+          <img src="https://img.shields.io/badge/Cloud_Native_AI-FF6B35?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000" />
         </a>
-        <br><em>Advanced hooks, memoization, and bundle optimization</em>
+        <br><em>Deploying AI models with Azure Container Instances</em>
       </td>
     </tr>
     <tr>
       <td>
         <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Kubernetes_Security_Best_Practices-00D9FF?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000" />
+          <img src="https://img.shields.io/badge/DevOps_for_Data_Science-00D9FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=000000" />
         </a>
-        <br><em>Production-ready container orchestration</em>
+        <br><em>Automating ML model deployment with GitHub Actions</em>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Serverless_AI_APIs-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" />
+        </a>
+        <br><em>Conference talk: Building cost-effective AI services</em>
       </td>
     </tr>
   </table>
@@ -650,7 +398,7 @@ class SoftwareArchitect {
 
 ---
 
-## 🎵 **CODING AMBIANCE**
+## 🎵 **INNOVATION FUEL**
 
 <div align="center">
   <table>
@@ -659,15 +407,15 @@ class SoftwareArchitect {
         <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" alt="Music Visualization" width="200" />
       </td>
       <td>
-        <h4>🎧 Current Coding Playlist:</h4>
+        <h4>🎧 Deep Work Playlist:</h4>
         <ul align="left">
-          <li>🌊 Ambient Electronic</li>
-          <li>🎹 Neo-Classical</li>
-          <li>🎮 Synthwave</li>
-          <li>🌙 Lo-fi Hip Hop</li>
+          <li>🌊 Ambient Electronic for ML Training</li>
+          <li>🎹 Neo-Classical for Architecture Design</li>
+          <li>🎮 Synthwave for Late-Night Coding</li>
+          <li>🌙 Lo-fi Hip Hop for DevOps Automation</li>
         </ul>
         <a href="https://open.spotify.com/user/317zc24pnfufnhx7w2lghbx4cdau">
-          <img src="https://img.shields.io/badge/My_Coding_Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000" alt="Spotify Playlist" />
+          <img src="https://img.shields.io/badge/My_Deep_Work_Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000" alt="Spotify Playlist" />
         </a>
       </td>
     </tr>
@@ -676,10 +424,10 @@ class SoftwareArchitect {
 
 ---
 
-## 🤝 **LET'S BUILD SOMETHING EXTRAORDINARY**
+## 🤝 **LET'S BUILD THE FUTURE TOGETHER**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=00D9FF&center=true&width=600&lines=🚀+Ready+for+your+next+game-changing+hire%3F;💡+Let's+architect+the+future+together;🌟+Open+to+exciting+opportunities!" alt="Call to Action" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=00D9FF&center=true&width=700&lines=🚀+Ready+to+revolutionize+your+tech+stack%3F;🤖+Let's+build+intelligent%2C+scalable+solutions;⚡+Open+to+game-changing+opportunities!" alt="Call to Action" />
 </div>
 
 <div align="center">
@@ -687,12 +435,12 @@ class SoftwareArchitect {
     <tr>
       <td align="center">
         <a href="mailto:nene171408@gmail.com">
-          <img src="https://img.shields.io/badge/Schedule_Interview-FF6B35?style=for-the-badge&logo=calendar&logoColor=white&labelColor=000000" alt="Schedule Interview" />
+          <img src="https://img.shields.io/badge/Let's_Connect-FF6B35?style=for-the-badge&logo=calendar&logoColor=white&labelColor=000000" alt="Let's Connect" />
         </a>
       </td>
       <td align="center">
         <a href="https://nicolettemashaba.vercel.app/">
-          <img src="https://img.shields.io/badge/Portfolio_Review-00D9FF?style=for-the-badge&logo=world&logoColor=white&labelColor=000000" alt="Portfolio" />
+          <img src="https://img.shields.io/badge/View_Portfolio-00D9FF?style=for-the-badge&logo=world&logoColor=white&labelColor=000000" alt="Portfolio" />
         </a>
       </td>
       <td align="center">
@@ -705,7 +453,137 @@ class SoftwareArchitect {
 </div>
 
 <div align="center">
-  <h3>💬 "Great software is built by great teams. Let's create something amazing together."</h3>
+  <h3>💬 "The future belongs to those who combine AI, cloud, and automation into intelligent solutions."</h3>
+</div>
+
+---
+
+## 🔬 **CURRENT RESEARCH & EXPERIMENTS**
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h4>🧪 <b>Active Research Projects</b></h4>
+        <ul align="left">
+          <li>🤖 <b>AutoML Pipeline Optimization</b><br><em>Reducing model training time by 60%</em></li>
+          <li>☁️ <b>Serverless ML Inference</b><br><em>Cost-effective AI API deployment</em></li>
+          <li>🔐 <b>MLSecOps Framework</b><br><em>Security-first ML deployment</em></li>
+          <li>🌐 <b>Edge AI Optimization</b><br><em>Running models on resource-constrained devices</em></li>
+        </ul>
+      </td>
+      <td width="50%" align="center">
+        <h4>🛠️ <b>Open Source Contributions</b></h4>
+        <ul align="left">
+          <li>📦 <b>Kubernetes ML Operators</b><br><em>Custom operators for ML workloads</em></li>
+          <li>🐍 <b>Python DevOps Tools</b><br><em>Infrastructure automation utilities</em></li>
+          <li>⚡ <b>Fast API Templates</b><br><em>Production-ready API boilerplates</em></li>
+          <li>📊 <b>Monitoring Dashboards</b><br><em>Grafana panels for ML metrics</em></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌍 **COMMUNITY ENGAGEMENT**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Tech_Talks-12%2B-00D9FF?style=for-the-badge&logo=microphone&logoColor=white&labelColor=000000" />
+        <br><b>Speaking Engagements</b>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Workshops-8%2B-FF6B35?style=for-the-badge&logo=chalkboard&logoColor=white&labelColor=000000" />
+        <br><b>Technical Workshops</b>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Mentorship-15%2B_Engineers-00D9FF?style=for-the-badge&logo=users&logoColor=white&labelColor=000000" />
+        <br><b>Knowledge Sharing</b>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/OSS_Contributions-50%2B-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+        <br><b>Open Source</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 **TECHNICAL EXPERTISE BREAKDOWN**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NickiMash17&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&custom_title=Weekly%20Development%20Breakdown" width="50%" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h4>🤖 AI/ML Engineering</h4>
+        <img src="https://img.shields.io/badge/Expertise-95%25-00D9FF?style=for-the-badge" />
+        <br><small>Neural Networks • MLOps • Deep Learning</small>
+      </td>
+      <td align="center">
+        <h4>☁️ Cloud Architecture</h4>
+        <img src="https://img.shields.io/badge/Expertise-90%25-FF6B35?style=for-the-badge" />
+        <br><small>Azure • AWS • Serverless • Microservices</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h4>⚙️ DevOps Engineering</h4>
+        <img src="https://img.shields.io/badge/Expertise-88%25-00D9FF?style=for-the-badge" />
+        <br><small>CI/CD • Infrastructure as Code • Monitoring</small>
+      </td>
+      <td align="center">
+        <h4>💻 Software Development</h4>
+        <img src="https://img.shields.io/badge/Expertise-92%25-FF6B35?style=for-the-badge" />
+        <br><small>Full-Stack • APIs • System Design</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 **2025 INNOVATION ROADMAP**
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>🗓️ Quarter</th>
+        <th>🎯 Focus Area</th>
+        <th>📈 Goal</th>
+        <th>🚀 Impact</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>Q2 2025</b></td>
+        <td>AI/ML Platform Development</td>
+        <td>Launch AutoML SaaS Platform</td>
+        <td>Democratize ML for SMBs</td>
+      </tr>
+      <tr>
+        <td><b>Q3 2025</b></td>
+        <td>Multi-Cloud MLOps</td>
+        <td>Cross-cloud ML Pipeline Tool</td>
+        <td>Vendor-agnostic ML Deployments</td>
+      </tr>
+      <tr>
+        <td><b>Q4 2025</b></td>
+        <td>Edge AI Innovation</td>
+        <td>Lightweight AI Framework</td>
+        <td>AI at the Edge Revolution</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ---
@@ -713,10 +591,11 @@ class SoftwareArchitect {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NickiMash17&style=for-the-badge&color=00d9ff&labelColor=000000" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/NickiMash17?style=for-the-badge&color=ff6b35&labelColor=000000&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/NickiMash17?style=for-the-badge&color=00d9ff&labelColor=000000&logo=github" alt="GitHub Stars" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=666666&center=true&width=500&lines=Crafting+digital+experiences+%7C+One+commit+at+a+time;Building+tomorrow's+technology+%7C+Today" alt="Footer Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=666666&center=true&width=500&lines=Engineering+the+future+%7C+One+algorithm+at+a+time;Building+intelligent+systems+%7C+That+scale+globally" alt="Footer Message" />
 </div>
 
 <!--Animated contribution snake-->
