@@ -1,7 +1,7 @@
 <img src="banner.svg" alt="GitHub Banner" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+NICOLETTE+MASHABA+✨;Software+Developer+%7C+AI+Engineer+%7C+DevOps+Specialist" alt="Dynamic Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+%7C+AI%2FML+Enthusiast;DevOps+Specialist+%7C+Azure+Cloud+Expert" alt="Dynamic Title" />
 </div>
 
 <div align="center">
