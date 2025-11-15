@@ -1,4 +1,20 @@
-<img src="banner.png" alt="GitHub Banner" width="100%" />
+<!-- Animated Banner - Hosted SVG -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=NICOLETTE%20MASHABA&fontSize=50&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20Software%20Developer%20|%20DevOps%20Specialist&descAlignY=55&descSize=20" width="100%" />
+</div>
+
+<!-- Alternative: Cyber-themed animated banner -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=200&lines=NICOLETTE+MASHABA;%E2%9A%A1+AI%2FML+Engineer+%7C+DevOps+Specialist+%E2%9A%A1" />
+    <img alt="Banner" src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=200&lines=NICOLETTE+MASHABA;%E2%9A%A1+AI%2FML+Engineer+%7C+DevOps+Specialist+%E2%9A%A1" />
+  </picture>
+</div>
+
+<!-- Neural Network Effect Background -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Neural Network Background" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+%7C+AI%2FML+Enthusiast;DevOps+Specialist+%7C+Azure+Cloud+Expert" alt="Dynamic Title" />
