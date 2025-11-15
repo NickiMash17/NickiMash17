@@ -22,6 +22,14 @@
 <br />
 
 <div align="center">
+  <a href="https://user-badge.committers.top/south_africa/NickiMash17">
+    <img src="https://user-badge.committers.top/south_africa/NickiMash17.svg" alt="Top Committer in South Africa" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NickiMash17&bg_color=0d1117&color=00d9ff&line=ff6b35&point=ffffff&area=true&area_color=00d9ff&hide_border=true&radius=10" alt="GitHub Activity Graph" width="95%" />
 </div>
 
@@ -302,41 +310,6 @@ class AIEngineer {
       <td align="center">
         <img src="https://img.shields.io/badge/Team_Leadership-3%2B_Years-FF6B35?style=for-the-badge&logo=users&logoColor=white&labelColor=000000" />
         <br><b>Technical Mentorship</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🌟 **TESTIMONIALS**
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face&auto=format" style="border-radius: 50%" width="80" height="80" />
-        <blockquote>
-          <em>"Nicolette's AI/ML expertise transformed our data analytics. Her models increased prediction accuracy by 40% and automated critical business processes."</em>
-        </blockquote>
-        <strong>— Head of Data Science</strong><br>
-        <small>FinTech Company</small>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://images.unsplash.com/photo-1494790108755-2616b332c1bc?w=100&h=100&fit=crop&crop=face&auto=format" style="border-radius: 50%" width="80" height="80" />
-        <blockquote>
-          <em>"Her DevOps automation reduced our deployment time from hours to minutes. The CI/CD pipelines she built are rock-solid and have zero downtime."</em>
-        </blockquote>
-        <strong>— Senior DevOps Engineer</strong><br>
-        <small>Cloud Solutions Provider</small>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face&auto=format" style="border-radius: 50%" width="80" height="80" />
-        <blockquote>
-          <em>"Working with Nicolette on our AI chatbot was incredible. She delivered a solution that handles 10K+ conversations daily with 95% accuracy."</em>
-        </blockquote>
-        <strong>— Product Manager</strong><br>
-        <small>E-commerce Platform</small>
       </td>
     </tr>
   </table>
