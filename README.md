@@ -1,13 +1,13 @@
 <!-- Animated Banner - Hosted SVG -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=NICOLETTE%20MASHABA&fontSize=50&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20Software%20Developer%20|%20DevOps%20Specialist&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=NICOLETTE%20MASHABA&fontSize=50&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI/ML%20Developer%20|%20Cloud%20Specialist&descAlignY=55&descSize=20" width="100%" />
 </div>
 
 <!-- Alternative: Cyber-themed animated banner -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=200&lines=NICOLETTE+MASHABA;%E2%9A%A1+AI%2FML+Engineer+%7C+DevOps+Specialist+%E2%9A%A1" />
-    <img alt="Banner" src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=200&lines=NICOLETTE+MASHABA;%E2%9A%A1+AI%2FML+Engineer+%7C+DevOps+Specialist+%E2%9A%A1" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=200&lines=NICOLETTE+MASHABA;%E2%9A%A1+Software+Engineer+%7C+Full-Stack+Developer+%E2%9A%A1" />
+    <img alt="Banner" src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=200&lines=NICOLETTE+MASHABA;%E2%9A%A1+Software+Engineer+%7C+Full-Stack+Developer+%E2%9A%A1" />
   </picture>
 </div>
 
@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+%7C+AI%2FML+Enthusiast;DevOps+Specialist+%7C+Azure+Cloud+Expert" alt="Dynamic Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Azure+Certified+%7C+Flutter+Mobile+Dev" alt="Dynamic Title" />
 </div>
 
 <div align="center">
@@ -55,185 +55,247 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Divider" />
 </div>
 
-## 🚀 **THE ARCHITECT BEHIND THE CODE**
+## 🚀 **ABOUT ME**
 
 <img align="right" height="300" width="400" alt="Coding Animation" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ```typescript
-class AIEngineer {
+class SoftwareEngineer {
   name = "Nicolette Mashaba";
-  role = "Software Developer & AI Specialist";
-  location = "South Africa 🇿🇦";
+  title = "Software Engineering Student";
+  location = "Polokwane, South Africa 🇿🇦";
+  graduation = "2026";
   
-  currentFocus = [
-    "Building intelligent applications with AI/ML",
-    "Cloud-native development with modern frameworks",
-    "DevOps automation & CI/CD pipelines",
-    "Full-stack development with cutting-edge tech"
+  currentRole = [
+    "Software Engineering Intern @ Coast IT (PTY) Ltd",
+    "Building mobile apps with Flutter",
+    "Full-stack development with MERN & .NET",
+    "Microsoft Azure certified developer"
   ];
   
-  aiExpertise = [
-    "Machine Learning model development",
-    "Natural Language Processing",
-    "Computer Vision applications", 
-    "MLOps & model deployment"
+  expertise = [
+    "Full-Stack Web Development",
+    "Mobile App Development (Flutter)",
+    "Cloud Computing (Azure)",
+    "AI-Assisted Development",
+    "RESTful API Design"
   ];
   
-  mindset = "Code is art, AI is the future";
+  achievements = [
+    "🏆 AIMS Hackathon 2025 Winner",
+    "🎓 Azure Developer Associate (AZ-204)",
+    "⭐ CTU Top Performer 2023",
+    "💼 Multiple Professional Internships"
+  ];
   
-  getVision(): string {
-    return "Bridging the gap between human creativity and artificial intelligence";
+  mindset = "Clean code, scalable solutions, continuous learning";
+  
+  getCurrentFocus(): string {
+    return "Building production-ready applications with modern tech stacks";
   }
 }
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6B35&center=true&width=600&lines=🤖+Building+the+future+with+AI%2FML;🚀+Automating+everything+with+DevOps;💡+Creating+intelligent+solutions;🔥+Open+to+exciting+AI+opportunities!" alt="Current Status" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6B35&center=true&width=600&lines=🔥+Currently+%40+Coast+IT+(PTY)+Ltd;🚀+Building+with+Flutter+%26+React;💡+Azure+Certified+Developer;⚡+Open+to+exciting+opportunities!" alt="Current Status" />
 </div>
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ **TECHNOLOGY ARSENAL**
+## 🛠️ **TECHNOLOGY STACK**
 
 <div align="center">
 
-### **💻 Software Development**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=000000)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=000000)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
+### **💻 Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=000000)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=000000)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000)
 
-### **🤖 AI & Machine Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black&labelColor=000000)
+### **🎨 Frontend Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=000000)
 
-### **🚀 DevOps & Cloud**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=000000)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000000)
+### **⚙️ Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=000000)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=000000)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=000000)
 
-### **🗄️ Data & Analytics**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
+### **🗄️ Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=000000)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=000000)
+
+### **📱 Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000)
+
+### **☁️ Cloud & DevOps**
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white&labelColor=000000)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+
+### **🔌 APIs & Integration**
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=000000)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white&labelColor=000000)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)
 
 </div>
-
-<details>
-<summary><b>🔧 Complete Technology Stack</b></summary>
-<br>
-
-<div align="center">
-  
-**Languages:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-**Frontend:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-
-**Backend & APIs:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-**AI/ML Tools:**
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
-**DevOps Tools:**
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-</div>
-</details>
 
 ---
 
-## 🏆 **FLAGSHIP PROJECTS**
+## 💼 **PROFESSIONAL EXPERIENCE**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Coast_IT-Current-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" />
+        <h4>Software Engineering Intern</h4>
+        <p><em>Nov 2025 - Dec 2025</em></p>
+        <p>🚀 Flutter mobile app development<br>
+        ⚡ Agile team collaboration<br>
+        💡 Full-stack project delivery</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/CodeCatalyst-Completed-FF6B35?style=for-the-badge&logoColor=white&labelColor=000000" />
+        <h4>Web Developer Intern</h4>
+        <p><em>Jun 2025 - Jul 2025</em></p>
+        <p>🌐 MERN stack development<br>
+        🔐 JWT authentication<br>
+        📊 20% faster report generation</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Outlier-Completed-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" />
+        <h4>AI Model Trainer</h4>
+        <p><em>Oct 2024 - Dec 2024</em></p>
+        <p>🤖 100+ AI prompts refined<br>
+        📈 25% accuracy improvement<br>
+        ⏱️ 10hrs/week time saved</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🏆 **FEATURED PROJECTS**
 
 <div align="center">
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
         <div align="center">
-          <h3>🤖 <b>AI-Powered Analytics Platform</b></h3>
-          <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="AI Analytics" />
-          <p><b>Machine Learning Dashboard</b></p>
-          <p>🧠 <em>TensorFlow | Python | React | Docker</em></p>
-          <p>
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
+          <h3>🏆 <b>AI Compliance Interrogator</b></h3>
+          <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100%" alt="AI Project" />
+          <p><b>🥇 AIMS Hackathon 2025 Winner - Firefly Team</b></p>
+          <p><em>AI-powered tool to combat human trafficking</em></p>
+          <br>
+          <p align="left">
+            <b>✨ Key Features:</b><br>
+            • Automated data analysis & NLP<br>
+            • Interactive React dashboard<br>
+            • Real-time notifications<br>
+            • Secure Azure cloud hosting<br>
+            • OpenAI API integration
           </p>
-          <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
-          <a href="#"><img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+          <p>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+            <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+            <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+            <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+            <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+          </p>
+          <a href="#"><img src="https://img.shields.io/badge/View_Project-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
         </div>
       </td>
       <td width="50%" valign="top">
         <div align="center">
-          <h3>🚀 <b>DevOps Automation Suite</b></h3>
-          <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="100%" alt="DevOps Pipeline" />
-          <p><b>CI/CD & Infrastructure as Code</b></p>
-          <p>⚙️ <em>Kubernetes | Terraform | Azure | GitHub Actions</em></p>
-          <p>
-            <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-            <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-            <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
+          <h3>🌐 <b>Full-Stack Web Applications</b></h3>
+          <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="Web Dev" />
+          <p><b>Production-Ready MERN Stack Projects</b></p>
+          <p><em>Built during CodeCatalyst internship</em></p>
+          <br>
+          <p align="left">
+            <b>✨ Key Features:</b><br>
+            • JWT authentication system<br>
+            • Responsive Tailwind UI<br>
+            • MongoDB data management<br>
+            • RESTful API architecture<br>
+            • Email & payment integration
           </p>
-          <a href="#"><img src="https://img.shields.io/badge/Architecture-00D9FF?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Architecture" /></a>
-          <a href="#"><img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+          <p>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+            <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+            <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+          </p>
+          <a href="https://github.com/NickiMash17"><img src="https://img.shields.io/badge/View_Portfolio-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
         <div align="center">
-          <h3>🧠 <b>NLP Chatbot Framework</b></h3>
-          <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100%" alt="NLP Chatbot" />
-          <p><b>Intelligent Conversational AI</b></p>
-          <p>💬 <em>OpenAI API | FastAPI | React | PostgreSQL</em></p>
-          <p>
-            <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-            <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+          <h3>📱 <b>Flutter Mobile Applications</b></h3>
+          <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100%" alt="Mobile Dev" />
+          <p><b>Cross-Platform Mobile Development</b></p>
+          <p><em>Current work @ Coast IT</em></p>
+          <br>
+          <p align="left">
+            <b>✨ Key Focus:</b><br>
+            • Cross-platform deployment<br>
+            • Material Design UI/UX<br>
+            • State management (Provider)<br>
+            • API integration<br>
+            • Agile development practices
           </p>
-          <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=streamlit&logoColor=white" alt="Demo" /></a>
-          <a href="#"><img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+          <p>
+            <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+            <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+          </p>
+          <a href="https://github.com/NickiMash17"><img src="https://img.shields.io/badge/Explore_More-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="More" /></a>
         </div>
       </td>
       <td width="50%" valign="top">
         <div align="center">
-          <h3>🏡 <b>Smart Real Estate Platform</b></h3>
-          <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="100%" alt="Real Estate Platform" />
-          <p><b>AI-Enhanced Property Management</b></p>
-          <p>🏠 <em>MERN Stack | ML Price Prediction | Maps API</em></p>
-          <p>
-            <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-            <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+          <h3>☁️ <b>Azure Cloud Solutions</b></h3>
+          <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="100%" alt="Cloud" />
+          <p><b>Microsoft Azure Certified Projects</b></p>
+          <p><em>AZ-204 Developer Associate</em></p>
+          <br>
+          <p align="left">
+            <b>✨ Cloud Expertise:</b><br>
+            • Azure Functions & APIs<br>
+            • Azure DevOps CI/CD<br>
+            • AKS (Kubernetes) deployment<br>
+            • Terraform infrastructure<br>
+            • Secure data management
           </p>
-          <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
-          <a href="#"><img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+          <p>
+            <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+            <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
+            <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+          </p>
+          <a href="https://github.com/NickiMash17"><img src="https://img.shields.io/badge/View_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
         </div>
       </td>
     </tr>
@@ -242,7 +304,7 @@ class AIEngineer {
 
 ---
 
-## 📈 **PERFORMANCE METRICS**
+## 📈 **GITHUB STATISTICS**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NickiMash17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff6b35&text_color=ffffff&count_private=true&include_all_commits=true" width="48%" />
@@ -259,73 +321,34 @@ class AIEngineer {
 
 ---
 
-## 🎯 **LEARNING & GROWTH TRAJECTORY**
-
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>🎯 Focus Area</th>
-        <th>📊 Progress</th>
-        <th>🚀 Target</th>
-        <th>💡 Impact</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><b>AI/ML Engineering</b></td>
-        <td><img src="https://img.shields.io/badge/85%25-Advanced-00d9ff?style=flat&labelColor=gray" /></td>
-        <td>Q2 2025</td>
-        <td>Production AI Systems</td>
-      </tr>
-      <tr>
-        <td><b>MLOps & Model Deployment</b></td>
-        <td><img src="https://img.shields.io/badge/70%25-In_Progress-ff6b35?style=flat&labelColor=gray" /></td>
-        <td>July 2025</td>
-        <td>Scalable ML Pipelines</td>
-      </tr>
-      <tr>
-        <td><b>Cloud-Native AI</b></td>
-        <td><img src="https://img.shields.io/badge/80%25-Advanced-00d9ff?style=flat&labelColor=gray" /></td>
-        <td>June 2025</td>
-        <td>Enterprise AI Solutions</td>
-      </tr>
-      <tr>
-        <td><b>DevOps Automation</b></td>
-        <td><img src="https://img.shields.io/badge/90%25-Expert-ff6b35?style=flat&labelColor=gray" /></td>
-        <td>Mastery Achieved</td>
-        <td>Zero-Downtime Deployments</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
----
-
-## 💼 **PROFESSIONAL HIGHLIGHTS**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=FF6B35&center=true&width=800&lines=🤖+Deployed+5%2B+AI%2FML+models+to+production;🚀+Automated+20%2B+deployment+pipelines;💡+Led+development+teams+on+cutting-edge+projects;⚡+Reduced+infrastructure+costs+by+40%25" alt="Professional Highlights" />
-</div>
+## 🎓 **EDUCATION & CERTIFICATIONS**
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AI%2FML_Projects-8%2B-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" />
-        <br><b>Intelligent Solutions</b>
+      <td align="center" width="50%">
+        <h3>🎓 Education</h3>
+        <img src="https://img.shields.io/badge/Software_Engineering-NQF_6-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" />
+        <p><b>CTU Training Solutions</b></p>
+        <p>Occupational Certificate: Software Engineering<br><em>Expected Graduation: 2026</em></p>
+        <br>
+        <img src="https://img.shields.io/badge/IT_Programming-NQF_4-FF6B35?style=for-the-badge&logoColor=white&labelColor=000000" />
+        <p><b>CTU Training Solutions</b></p>
+        <p>IT Programming Foundation<br><em>Graduated: 2024</em></p>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/DevOps_Pipelines-20%2B-FF6B35?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=000000" />
-        <br><b>Automated Workflows</b>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Cloud_Deployments-15%2B-00D9FF?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000" />
-        <br><b>Scalable Infrastructure</b>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Team_Leadership-3%2B_Years-FF6B35?style=for-the-badge&logo=users&logoColor=white&labelColor=000000" />
-        <br><b>Technical Mentorship</b>
+      <td align="center" width="50%">
+        <h3>📜 Certifications</h3>
+        <img src="https://img.shields.io/badge/Microsoft-Azure_Developer_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000" />
+        <p><b>AZ-204</b> - Azure Developer Associate</p>
+        <br>
+        <img src="https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000" />
+        <p><b>DP-900</b> - Azure Data Fundamentals</p>
+        <br>
+        <img src="https://img.shields.io/badge/SheCodes-Web_Development-FF6B35?style=for-the-badge&logoColor=white&labelColor=000000" />
+        <p>Basics, Plus & Responsive Web Development</p>
+        <br>
+        <img src="https://img.shields.io/badge/Techbridle-Software_Bootcamp-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" />
+        <p>Software Development Bootcamp</p>
       </td>
     </tr>
   </table>
@@ -333,41 +356,32 @@ class AIEngineer {
 
 ---
 
-## 📚 **KNOWLEDGE SHARING & RESEARCH**
+## 🏅 **ACHIEVEMENTS & RECOGNITION**
 
 <div align="center">
-  <h3>🚀 Latest Technical Articles & Research</h3>
   <table>
     <tr>
-      <td>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Building_Production_ML_Pipelines-00D9FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000" />
-        </a>
-        <br><em>MLOps best practices with Azure ML & Kubernetes</em>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏆_AIMS_Hackathon_2025-Winner-00D9FF?style=for-the-badge&labelColor=000000" />
+        <br><b>Best Team - Application & Visualisation</b>
+        <p><em>AI Compliance Interrogator Project</em></p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⭐_Top_Performer-CTU_2023-FF6B35?style=for-the-badge&labelColor=000000" />
+        <br><b>Programming Foundation Excellence</b>
+        <p><em>CTU Training Solutions</em></p>
       </td>
     </tr>
     <tr>
-      <td>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/AI_Chatbot_Architecture-FF6B35?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=000000" />
-        </a>
-        <br><em>Building scalable conversational AI with OpenAI & FastAPI</em>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💼_J.P._Morgan-Simulation-00D9FF?style=for-the-badge&labelColor=000000" />
+        <br><b>Midas Core Software Engineering</b>
+        <p><em>Forage Platform - 2025</em></p>
       </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/DevOps_for_ML_Teams-00D9FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=000000" />
-        </a>
-        <br><em>Automating ML model deployment with CI/CD</em>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Computer_Vision_at_Scale-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" />
-        </a>
-        <br><em>Deploying vision models with TensorFlow Serving</em>
+      <td align="center">
+        <img src="https://img.shields.io/badge/☁️_Azure_Certified-Developer-FF6B35?style=for-the-badge&labelColor=000000" />
+        <br><b>Microsoft Azure AZ-204</b>
+        <p><em>Cloud Development Expertise</em></p>
       </td>
     </tr>
   </table>
@@ -375,25 +389,38 @@ class AIEngineer {
 
 ---
 
-## 🎵 **CODING AMBIANCE**
+## 📚 **SKILLS & EXPERTISE**
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" alt="Music Visualization" width="200" />
-      </td>
-      <td>
-        <h4>🎧 Current AI Development Playlist:</h4>
+      <th>💻 Technical Skills</th>
+      <th>🎯 Soft Skills</th>
+    </tr>
+    <tr>
+      <td valign="top">
         <ul align="left">
-          <li>🌊 Deep Focus Electronic</li>
-          <li>🤖 Synthwave & Cyberpunk</li>
-          <li>🧠 Ambient Neural Networks</li>
-          <li>⚡ High-Energy Coding Beats</li>
+          <li>✅ Full-Stack Web Development (MERN, .NET)</li>
+          <li>✅ Mobile App Development (Flutter/Dart)</li>
+          <li>✅ Cloud Computing & DevOps (Azure, Docker)</li>
+          <li>✅ RESTful API Design & Integration</li>
+          <li>✅ Database Management (MongoDB, SQL)</li>
+          <li>✅ CI/CD Pipeline Implementation</li>
+          <li>✅ AI/ML Integration (OpenAI API)</li>
+          <li>✅ Version Control & Collaboration (Git)</li>
         </ul>
-        <a href="https://open.spotify.com/user/317zc24pnfufnhx7w2lghbx4cdau">
-          <img src="https://img.shields.io/badge/My_Coding_Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000" alt="Spotify Playlist" />
-        </a>
+      </td>
+      <td valign="top">
+        <ul align="left">
+          <li>🎯 Problem-Solving & Debugging</li>
+          <li>🎯 Team Collaboration & Agile</li>
+          <li>🎯 Fast Learning & Adaptability</li>
+          <li>🎯 Effective Communication</li>
+          <li>🎯 Project Management</li>
+          <li>🎯 Mentorship & Teaching</li>
+          <li>🎯 Attention to Detail</li>
+          <li>🎯 Time Management</li>
+        </ul>
       </td>
     </tr>
   </table>
@@ -401,10 +428,10 @@ class AIEngineer {
 
 ---
 
-## 🤝 **LET'S BUILD THE FUTURE WITH AI**
+## 🤝 **LET'S CONNECT & COLLABORATE**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=00D9FF&center=true&width=600&lines=🤖+Ready+to+revolutionize+your+business+with+AI%3F;🚀+Let's+create+intelligent+solutions+together;💡+Open+to+exciting+AI%2FML+opportunities!" alt="Call to Action" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=00D9FF&center=true&width=700&lines=🚀+Open+to+software+engineering+opportunities;💡+Available+for+freelance+projects;🤝+Let's+build+something+amazing+together!" alt="Call to Action" />
 </div>
 
 <div align="center">
@@ -412,36 +439,49 @@ class AIEngineer {
     <tr>
       <td align="center">
         <a href="mailto:nene171408@gmail.com">
-          <img src="https://img.shields.io/badge/AI_Consultation-FF6B35?style=for-the-badge&logo=calendar&logoColor=white&labelColor=000000" alt="AI Consultation" />
+          <img src="https://img.shields.io/badge/Email_Me-FF6B35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
         </a>
       </td>
       <td align="center">
-        <a href="https://nicolettemashaba.vercel.app/">
-          <img src="https://img.shields.io/badge/Portfolio_&_Projects-00D9FF?style=for-the-badge&logo=world&logoColor=white&labelColor=000000" alt="Portfolio" />
+        <a href="https://nickimash.vercel.app/">
+          <img src="https://img.shields.io/badge/View_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio" />
         </a>
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/nicolette-mashaba-b094a5221/">
-          <img src="https://img.shields.io/badge/Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NickiMash17">
+          <img src="https://img.shields.io/badge/View_Projects-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
+<br>
+
 <div align="center">
-  <h3>🧠 "The future is intelligent, and I'm here to build it one algorithm at a time."</h3>
+  <h3>💼 "Building scalable solutions with clean code and modern technologies"</h3>
+  <p><em>Currently seeking full-time software engineering opportunities | Graduating 2026</em></p>
 </div>
 
 ---
 
+## 📊 **ACTIVITY OVERVIEW**
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NickiMash17&style=for-the-badge&color=00d9ff&labelColor=000000" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/NickiMash17?style=for-the-badge&color=ff6b35&labelColor=000000&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Status-Actively_Coding-00D9FF?style=for-the-badge&labelColor=000000" alt="Status" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=666666&center=true&width=500&lines=Building+intelligent+systems+%7C+One+model+at+a+time;Automating+the+world+%7C+Through+code+and+AI" alt="Footer Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=666666&center=true&width=500&lines=Building+the+future+one+commit+at+a+time;From+student+to+professional+developer;Always+learning%2C+always+growing" alt="Footer Message" />
 </div>
 
 <!--Animated contribution snake-->
@@ -453,4 +493,10 @@ class AIEngineer {
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Footer Animation" />
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ Don't forget to star my repositories if you find them useful! ⭐</sub>
 </div>
