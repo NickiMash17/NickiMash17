@@ -1,29 +1,29 @@
 <!-- Glitch Effect Header with Interactive Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,6,11,17&height=280&section=header&text=NICOLETTE%20MASHABA&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=She%20Codes%20|%20She%20Creates%20|%20She%20Conquers&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=NICOLETTE%20MASHABA&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=She%20Codes%20|%20She%20Creates%20|%20She%20Conquers&descAlignY=55&descSize=18" width="100%" />
 </div>
 
 <!-- Interactive Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=FF006E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=150&lines=%F0%9F%92%96+SOFTWARE+ENGINEER+%7C+FULL-STACK+DEVELOPER+%F0%9F%92%96;%E2%9C%A8+CLOUD+ARCHITECT+%7C+MOBILE+INNOVATOR+%E2%9C%A8;%F0%9F%A6%84+AI+ENTHUSIAST+%7C+TECH+TRAILBLAZER+%F0%9F%A6%84;%F0%9F%8C%9F+BUILDING+THE+FUTURE+WITH+CODE+%F0%9F%8C%9F" alt="Dynamic Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=150&lines=%F0%9F%92%BB+SOFTWARE+ENGINEER+%7C+FULL-STACK+DEVELOPER+%F0%9F%92%BB;%E2%9C%A8+CLOUD+ARCHITECT+%7C+MOBILE+INNOVATOR+%E2%9C%A8;%F0%9F%9A%80+AI+ENTHUSIAST+%7C+TECH+TRAILBLAZER+%F0%9F%9A%80;%F0%9F%8C%9F+BUILDING+THE+FUTURE+WITH+CODE+%F0%9F%8C%9F" alt="Dynamic Title" />
 </div>
 
 <!-- Interactive Social Badges with Hover Effects -->
 <div align="center">
   <a href="https://nickimash.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_PORTFOLIO-FF006E?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=google-chrome" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/💼_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=google-chrome" alt="Portfolio" />
   </a>
   <a href="mailto:nene171408@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_EMAIL_ME-00F7F7?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/✉️_EMAIL_ME-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/nicolette-mashaba-b094a5221/" target="_blank">
-    <img src="https://img.shields.io/badge/🤝_LINKEDIN-FF006E?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/🤝_LINKEDIN-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://x.com/m_neyi" target="_blank">
-    <img src="https://img.shields.io/badge/🐦_TWITTER-00F7F7?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=x" alt="Twitter" />
+    <img src="https://img.shields.io/badge/🐦_TWITTER-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=x" alt="Twitter" />
   </a>
   <a href="https://github.com/NickiMash17" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_GITHUB-FF006E?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/⚡_GITHUB-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=github" alt="GitHub" />
   </a>
 </div>
 
@@ -31,19 +31,19 @@
 
 <!-- Live Stats Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/💻_Lines_of_Code-500K+-FF006E?style=for-the-badge&labelColor=0a192f" />
-  <img src="https://img.shields.io/badge/☕_Coffee_Consumed-∞-00F7F7?style=for-the-badge&labelColor=0a192f" />
-  <img src="https://img.shields.io/badge/🚀_Projects_Built-20+-FF006E?style=for-the-badge&labelColor=0a192f" />
-  <img src="https://img.shields.io/badge/🎯_Problems_Solved-1000+-00F7F7?style=for-the-badge&labelColor=0a192f" />
+  <img src="https://img.shields.io/badge/💻_Lines_of_Code-500K+-00D9FF?style=for-the-badge&labelColor=0a192f" />
+  <img src="https://img.shields.io/badge/☕_Coffee_Consumed-∞-00CED1?style=for-the-badge&labelColor=0a192f" />
+  <img src="https://img.shields.io/badge/🚀_Projects_Built-20+-00D9FF?style=for-the-badge&labelColor=0a192f" />
+  <img src="https://img.shields.io/badge/🎯_Problems_Solved-1000+-00CED1?style=for-the-badge&labelColor=0a192f" />
 </div>
 
 <br>
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NickiMash17&style=for-the-badge&color=FF006E&labelColor=0a192f&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/NickiMash17?style=for-the-badge&color=00F7F7&labelColor=0a192f&logo=github&label=FOLLOWERS" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVELY_CODING-00F7F7?style=for-the-badge&labelColor=0a192f&logo=visualstudiocode" />
+  <img src="https://komarev.com/ghpvc/?username=NickiMash17&style=for-the-badge&color=00D9FF&labelColor=0a192f&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/NickiMash17?style=for-the-badge&color=00CED1&labelColor=0a192f&logo=github&label=FOLLOWERS" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVELY_CODING-00D9FF?style=for-the-badge&labelColor=0a192f&logo=visualstudiocode" />
 </div>
 
 <br>
@@ -74,7 +74,7 @@
 
 ## 💫 **MEET NICOLETTE - THE WOMAN BEHIND THE CODE**
 
-<img align="right" height="300" width="380" alt="Woman Coding" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<img align="right" height="300" width="380" alt="Woman Coding" src="https://media1.tenor.com/m/qJ5evVs-_uUAAAAC/coding.gif" />
 
 ```typescript
 interface WomanInTech {
@@ -135,7 +135,7 @@ console.log(nicolette.lifeMotto());
 
 <!-- Real-time Status Updates -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=FF006E&center=true&width=800&lines=⚡+Currently+building+at+Coast+IT+(PTY)+Ltd;💖+Passionate+about+Flutter+%2B+React+%2B+Azure;🌟+Microsoft+Azure+Certified+Cloud+Developer;✨+Graduating+2026+%7C+Open+to+Opportunities;💪+Empowering+Women+in+Tech+%7C+Breaking+Stereotypes!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=00D9FF&center=true&width=800&lines=⚡+Currently+building+at+Coast+IT+(PTY)+Ltd;💻+Passionate+about+Flutter+%2B+React+%2B+Azure;🌟+Microsoft+Azure+Certified+Cloud+Developer;✨+Graduating+2026+%7C+Open+to+Opportunities;💪+Empowering+Women+in+Tech+%7C+Breaking+Stereotypes!" />
 </div>
 
 ---
@@ -373,12 +373,12 @@ console.log(nicolette.lifeMotto());
 
 ### 📊 **SKILL PROFICIENCY LEVELS**
 
-![React](https://img.shields.io/badge/React-95%25-FF006E?style=flat-square&logo=react&logoColor=white&labelColor=0a192f)
-![TypeScript](https://img.shields.io/badge/TypeScript-90%25-00F7F7?style=flat-square&logo=typescript&logoColor=white&labelColor=0a192f)
-![Flutter](https://img.shields.io/badge/Flutter-92%25-FF006E?style=flat-square&logo=flutter&logoColor=white&labelColor=0a192f)
-![Node.js](https://img.shields.io/badge/Node.js-88%25-00F7F7?style=flat-square&logo=node.js&logoColor=white&labelColor=0a192f)
-![Azure](https://img.shields.io/badge/Azure-85%25-FF006E?style=flat-square&logo=microsoft-azure&logoColor=white&labelColor=0a192f)
-![MongoDB](https://img.shields.io/badge/MongoDB-87%25-00F7F7?style=flat-square&logo=mongodb&logoColor=white&labelColor=0a192f)
+![React](https://img.shields.io/badge/React-95%25-00D9FF?style=flat-square&logo=react&logoColor=white&labelColor=0a192f)
+![TypeScript](https://img.shields.io/badge/TypeScript-90%25-00CED1?style=flat-square&logo=typescript&logoColor=white&labelColor=0a192f)
+![Flutter](https://img.shields.io/badge/Flutter-92%25-00D9FF?style=flat-square&logo=flutter&logoColor=white&labelColor=0a192f)
+![Node.js](https://img.shields.io/badge/Node.js-88%25-00CED1?style=flat-square&logo=node.js&logoColor=white&labelColor=0a192f)
+![Azure](https://img.shields.io/badge/Azure-85%25-00D9FF?style=flat-square&logo=microsoft-azure&logoColor=white&labelColor=0a192f)
+![MongoDB](https://img.shields.io/badge/MongoDB-87%25-00CED1?style=flat-square&logo=mongodb&logoColor=white&labelColor=0a192f)
 
 </div>
 
@@ -410,7 +410,7 @@ timeline
 <td align="center" width="33%">
 
 ### 🚀 **Coast IT (PTY) Ltd**
-<img src="https://img.shields.io/badge/CURRENT_ROLE-FF006E?style=for-the-badge&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/CURRENT_ROLE-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f" />
 
 **Software Engineering Intern**  
 *Nov 2025 - Dec 2025*
@@ -429,7 +429,7 @@ timeline
 <td align="center" width="33%">
 
 ### 🌐 **CodeCatalyst**
-<img src="https://img.shields.io/badge/COMPLETED-00F7F7?style=for-the-badge&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/COMPLETED-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f" />
 
 **Web Developer Intern**  
 *Jun 2025 - Jul 2025*
@@ -448,7 +448,7 @@ timeline
 <td align="center" width="33%">
 
 ### 🤖 **Outlier AI**
-<img src="https://img.shields.io/badge/COMPLETED-FF006E?style=for-the-badge&logoColor=white&labelColor=0a192f" />
+<img src="https://img.shields.io/badge/COMPLETED-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f" />
 
 **AI Model Trainer**  
 *Oct 2024 - Dec 2024*
@@ -477,7 +477,7 @@ timeline
 <summary><h3>🥇 AI COMPLIANCE INTERROGATOR - AIMS Hackathon 2025 Winner 🏆</h3></summary>
 
 <div align="center">
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="500" alt="AI Project"/>
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500" alt="Female AI Developer"/>
 
 ### **Leading the Firefly Team to Victory! 💪**
 
@@ -528,7 +528,7 @@ DevOps:    Azure DevOps + CI/CD pipelines
 <summary><h3>🌐 FULL-STACK WEB APPLICATIONS - CodeCatalyst Portfolio</h3></summary>
 
 <div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" alt="Web Development"/>
+<img src="https://media.tenor.com/S59bXuClYZgAAAAC/programming-girl.gif" width="500" alt="Female Web Developer"/>
 
 ### **From Concept to Deployment - I Build It All! ✨**
 
@@ -576,7 +576,7 @@ Deploy:    Vercel (frontend) + Render (backend)
 <summary><h3>📱 FLUTTER MOBILE APPLICATIONS - Coast IT Projects</h3></summary>
 
 <div align="center">
-<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500" alt="Mobile Development"/>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" alt="Female Mobile Developer"/>
 
 ### **Crafting Beautiful Mobile Experiences! 💖**
 
@@ -627,7 +627,7 @@ Analytics:   Firebase Analytics + Crashlytics
 <summary><h3>☁️ AZURE CLOUD SOLUTIONS - Certified Projects</h3></summary>
 
 <div align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500" alt="Cloud Computing"/>
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" alt="Female Cloud Engineer"/>
 
 ### **Building Scalable Cloud Infrastructure! ☁️**
 
@@ -680,24 +680,28 @@ Security:        Azure Key Vault, Azure AD, Managed Identities
 <div align="center">
   
 <!-- Stats Cards with Custom Styling -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NickiMash17&show_icons=true&theme=radical&hide_border=true&bg_color=0a192f&title_color=FF006E&icon_color=00F7F7&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=💖%20Nicolette's%20GitHub%20Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NickiMash17&theme=radical&hide_border=true&background=0a192f&stroke=FF006E&ring=00F7F7&fire=FF006E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F7F7&sideLabels=00F7F7&dates=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NickiMash17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00D9FF&icon_color=00CED1&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=💻%20Nicolette's%20GitHub%20Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NickiMash17&theme=tokyonight&hide_border=true&background=0a192f&stroke=00D9FF&ring=00CED1&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00CED1&sideLabels=00CED1&dates=ffffff" />
 
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickiMash17&layout=compact&theme=radical&hide_border=true&bg_color=0a192f&title_color=FF006E&text_color=ffffff&langs_count=10&hide=html,css&custom_title=💻%20Languages%20I%20Love" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickiMash17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00D9FF&text_color=ffffff&langs_count=10&hide=html,css&custom_title=💻%20Languages%20I%20Love" />
 </div>
 
 <!-- Trophy Showcase -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NickiMash17&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=Stars,Commits,Repositories,PullRequest,Issues,Followers,MultiLanguage" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NickiMash17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=Stars,Commits,Repositories,PullRequest,Issues,Followers,MultiLanguage" width="100%" />
 </div>
 
 <!-- Interactive Pacman Game -->
 <div align="center">
   <h3>🎮 Watch Pacman Eat My Contributions! 🎮</h3>
-  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Pacman eating contributions" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -711,7 +715,7 @@ Security:        Azure Key Vault, Azure AD, Managed Identities
 
 ### 🎓 **ACADEMIC JOURNEY**
 
-<img src="https://img.shields.io/badge/Software_Engineering-NQF_6-FF006E?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=google-scholar" />
+<img src="https://img.shields.io/badge/Software_Engineering-NQF_6-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=google-scholar" />
 
 **CTU Training Solutions**  
 *Occupational Certificate in Software Engineering*
@@ -728,7 +732,7 @@ Security:        Azure Key Vault, Azure AD, Managed Identities
 
 ---
 
-<img src="https://img.shields.io/badge/IT_Programming-NQF_4-00F7F7?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=code" />
+<img src="https://img.shields.io/badge/IT_Programming-NQF_4-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=code" />
 
 **CTU Training Solutions**  
 *IT Programming Foundation*
@@ -759,7 +763,7 @@ Security:        Azure Key Vault, Azure AD, Managed Identities
 
 ---
 
-<img src="https://img.shields.io/badge/SheCodes-FF006E?style=for-the-badge&logoColor=white" width="100%" />
+<img src="https://img.shields.io/badge/SheCodes-00D9FF?style=for-the-badge&logoColor=white" width="100%" />
 
 **Web Development Specialization**  
 *Basics, Plus & Responsive Design*  
@@ -767,7 +771,7 @@ Security:        Azure Key Vault, Azure AD, Managed Identities
 
 ---
 
-<img src="https://img.shields.io/badge/Techbridle-00F7F7?style=for-the-badge&logoColor=white" width="100%" />
+<img src="https://img.shields.io/badge/Techbridle-00CED1?style=for-the-badge&logoColor=white" width="100%" />
 
 **Software Development Bootcamp**  
 *Intensive Full-Stack Training*  
@@ -947,7 +951,7 @@ Technology evolves rapidly, and so do I. I'm committed to lifelong learning, sta
   
 ### 💌 **I'm Open To:**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00F7F7&center=true&width=900&lines=💼+Full-Time+Software+Engineering+Opportunities;🚀+Freelance+%26+Contract+Projects;🤝+Open+Source+Collaborations;🎤+Speaking+Engagements+%26+Tech+Talks;👩‍🏫+Mentorship+%26+Teaching+Opportunities;🌍+Remote+Work+Opportunities+Worldwide" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00D9FF&center=true&width=900&lines=💼+Full-Time+Software+Engineering+Opportunities;🚀+Freelance+%26+Contract+Projects;🤝+Open+Source+Collaborations;🎤+Speaking+Engagements+%26+Tech+Talks;👩‍🏫+Mentorship+%26+Teaching+Opportunities;🌍+Remote+Work+Opportunities+Worldwide" />
 
 </div>
 
@@ -958,28 +962,28 @@ Technology evolves rapidly, and so do I. I'm committed to lifelong learning, sta
 <tr>
 <td align="center">
 <a href="mailto:nene171408@gmail.com">
-<img src="https://img.shields.io/badge/✉️_EMAIL_ME-FF006E?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=gmail" />
+<img src="https://img.shields.io/badge/✉️_EMAIL_ME-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=gmail" />
 </a>
 <br><sub><b>Direct Communication</b></sub><br>
 <sub>Let's discuss opportunities!</sub>
 </td>
 <td align="center">
 <a href="https://nickimash.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00F7F7?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=vercel" />
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=vercel" />
 </a>
 <br><sub><b>View My Work</b></sub><br>
 <sub>See my projects in action</sub>
 </td>
 <td align="center">
 <a href="https://www.linkedin.com/in/nicolette-mashaba-b094a5221/" target="_blank">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-FF006E?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=linkedin" />
+<img src="https://img.shields.io/badge/💼_LINKEDIN-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=linkedin" />
 </a>
 <br><sub><b>Professional Network</b></sub><br>
 <sub>Let's connect professionally</sub>
 </td>
 <td align="center">
 <a href="https://github.com/NickiMash17" target="_blank">
-<img src="https://img.shields.io/badge/⚡_GITHUB-00F7F7?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=github" />
+<img src="https://img.shields.io/badge/⚡_GITHUB-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=github" />
 </a>
 <br><sub><b>Code Repository</b></sub><br>
 <sub>Explore my contributions</sub>
@@ -1002,7 +1006,7 @@ Technology evolves rapidly, and so do I. I'm committed to lifelong learning, sta
 <!-- Interactive Pacman Game eating contributions -->
 <div align="center">
   <h3>🎮 Watch Pacman Eat My Contributions! 🎮</h3>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Pacman Game" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Pacman Game Animation" width="100%" />
 </div>
 
 <div align="center">
@@ -1019,5 +1023,5 @@ Technology evolves rapidly, and so do I. I'm committed to lifelong learning, sta
 
 <!-- Final Wave Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,6,11,17&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
