@@ -74,7 +74,7 @@
 
 ## 💫 **MEET NICOLETTE - THE WOMAN BEHIND THE CODE**
 
-<img align="right" height="300" width="380" alt="Woman Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" height="300" width="380" alt="Woman Coding" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 ```typescript
 interface WomanInTech {
@@ -477,7 +477,7 @@ timeline
 <summary><h3>🥇 AI COMPLIANCE INTERROGATOR - AIMS Hackathon 2025 Winner 🏆</h3></summary>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="AI Project"/>
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="500" alt="AI Project"/>
 
 ### **Leading the Firefly Team to Victory! 💪**
 
@@ -528,7 +528,7 @@ DevOps:    Azure DevOps + CI/CD pipelines
 <summary><h3>🌐 FULL-STACK WEB APPLICATIONS - CodeCatalyst Portfolio</h3></summary>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce5ec548d.gif" width="500" alt="Web Development"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" alt="Web Development"/>
 
 ### **From Concept to Deployment - I Build It All! ✨**
 
@@ -576,7 +576,7 @@ Deploy:    Vercel (frontend) + Render (backend)
 <summary><h3>📱 FLUTTER MOBILE APPLICATIONS - Coast IT Projects</h3></summary>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" alt="Mobile Development"/>
+<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500" alt="Mobile Development"/>
 
 ### **Crafting Beautiful Mobile Experiences! 💖**
 
@@ -627,7 +627,7 @@ Analytics:   Firebase Analytics + Crashlytics
 <summary><h3>☁️ AZURE CLOUD SOLUTIONS - Certified Projects</h3></summary>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="500" alt="Cloud Computing"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500" alt="Cloud Computing"/>
 
 ### **Building Scalable Cloud Infrastructure! ☁️**
 
@@ -692,6 +692,12 @@ Security:        Azure Key Vault, Azure AD, Managed Identities
 <!-- Trophy Showcase -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NickiMash17&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=Stars,Commits,Repositories,PullRequest,Issues,Followers,MultiLanguage" width="100%" />
+</div>
+
+<!-- Interactive Pacman Game -->
+<div align="center">
+  <h3>🎮 Watch Pacman Eat My Contributions! 🎮</h3>
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Pacman eating contributions" width="100%" />
 </div>
 
 ---
@@ -993,17 +999,10 @@ Technology evolves rapidly, and so do I. I'm committed to lifelong learning, sta
 
 ## 📊 **LIVE ACTIVITY FEED**
 
+<!-- Interactive Pacman Game eating contributions -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NickiMash17&bg_color=0a192f&color=00f7f7&line=ff006e&point=ffffff&area=true&area_color=ff006e&hide_border=false&border=ff006e&custom_title=💖%20Recent%20Coding%20Activity" width="96%" />
-</div>
-
-<!-- Contribution Snake/Pacman Game -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/github-snake.svg" />
-    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/github-snake-dark.svg" width="100%" />
-  </picture>
+  <h3>🎮 Watch Pacman Eat My Contributions! 🎮</h3>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Pacman Game" width="100%" />
 </div>
 
 <div align="center">
