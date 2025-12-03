@@ -10,7 +10,7 @@
 
 <!-- Social Links -->
 <div align="center">
-  <a href="https://nickimash.vercel.app/" target="_blank">
+  <a href="https://nicmash-porfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=google-chrome" alt="Portfolio" />
   </a>
   <a href="mailto:nene171408@gmail.com">
@@ -61,7 +61,7 @@
 
 ## 👩‍💻 **ABOUT ME**
 
-<img align="right" height="280" width="350" alt="Woman Coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" height="280" width="350" alt="Woman Coding" src="https://i.imgflip.com/9rfpor.gif" />
 
 ```typescript
 const nicolette = {
@@ -505,7 +505,7 @@ Responsive Design & Development
         </a>
       </td>
       <td align="center">
-        <a href="https://nickimash.vercel.app/" target="_blank">
+        <a href="https://nicmash-porfolio.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=vercel" />
         </a>
       </td>
