@@ -1,467 +1,224 @@
-<!-- Glitch Effect Header with Interactive Animation -->
+<!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=NICOLETTE%20MASHABA&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=She%20Codes%20|%20She%20Creates%20|%20She%20Conquers&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=NICOLETTE%20MASHABA&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20Cloud%20Developer%20|%20Mobile%20Innovator&descAlignY=55&descSize=18" width="100%" />
 </div>
 
-<!-- Interactive Typing Animation -->
+<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=150&lines=%F0%9F%92%BB+SOFTWARE+ENGINEER+%7C+FULL-STACK+DEVELOPER+%F0%9F%92%BB;%E2%9C%A8+CLOUD+ARCHITECT+%7C+MOBILE+INNOVATOR+%E2%9C%A8;%F0%9F%9A%80+AI+ENTHUSIAST+%7C+TECH+TRAILBLAZER+%F0%9F%9A%80;%F0%9F%8C%9F+BUILDING+THE+FUTURE+WITH+CODE+%F0%9F%8C%9F" alt="Dynamic Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Azure+Certified+%7C+Flutter+Specialist" alt="Typing Animation" />
 </div>
 
-<!-- Interactive Social Badges with Hover Effects -->
+<!-- Social Links -->
 <div align="center">
   <a href="https://nickimash.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=google-chrome" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=google-chrome" alt="Portfolio" />
   </a>
   <a href="mailto:nene171408@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_EMAIL_ME-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/nicolette-mashaba-b094a5221/" target="_blank">
-    <img src="https://img.shields.io/badge/🤝_LINKEDIN-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://x.com/m_neyi" target="_blank">
-    <img src="https://img.shields.io/badge/🐦_TWITTER-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=x" alt="Twitter" />
-  </a>
-  <a href="https://github.com/NickiMash17" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_GITHUB-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Twitter-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=x" alt="Twitter" />
   </a>
 </div>
 
 <br>
 
-<!-- Live Stats Badges -->
+<!-- Profile Stats -->
 <div align="center">
-  <img src="https://img.shields.io/badge/💻_Lines_of_Code-500K+-00D9FF?style=for-the-badge&labelColor=0a192f" />
-  <img src="https://img.shields.io/badge/☕_Coffee_Consumed-∞-00CED1?style=for-the-badge&labelColor=0a192f" />
-  <img src="https://img.shields.io/badge/🚀_Projects_Built-20+-00D9FF?style=for-the-badge&labelColor=0a192f" />
-  <img src="https://img.shields.io/badge/🎯_Problems_Solved-1000+-00CED1?style=for-the-badge&labelColor=0a192f" />
+  <img src="https://komarev.com/ghpvc/?username=NickiMash17&style=for-the-badge&color=00D9FF&labelColor=0a192f" />
+  <img src="https://img.shields.io/github/followers/NickiMash17?style=for-the-badge&color=00CED1&labelColor=0a192f&logo=github" />
 </div>
 
 <br>
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NickiMash17&style=for-the-badge&color=00D9FF&labelColor=0a192f&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/NickiMash17?style=for-the-badge&color=00CED1&labelColor=0a192f&logo=github&label=FOLLOWERS" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVELY_CODING-00D9FF?style=for-the-badge&labelColor=0a192f&logo=visualstudiocode" />
-</div>
-
-<br>
-
-<!-- Elite Developer Badge -->
+<!-- Top Committer Badge -->
 <div align="center">
   <a href="https://user-badge.committers.top/south_africa/NickiMash17">
     <img src="https://user-badge.committers.top/south_africa/NickiMash17.svg" alt="Top Committer in South Africa" />
   </a>
 </div>
 
-<!-- Interactive Pacman Game Activity -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <h3>🎮 Watch Pacman Eat My Contributions! 🎮</h3>
-  <img src="https://github.com/NickiMash17/NickiMash17/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Game" />
-</div>
-
 <br>
 
-<!-- Cosmic Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </div>
 
-## 💫 **MEET NICOLETTE - THE WOMAN BEHIND THE CODE**
+## 👩‍💻 **ABOUT ME**
 
-<img align="right" height="300" width="380" alt="Woman Coding" src="https://media1.tenor.com/m/qJ5evVs-_uUAAAAC/coding.gif" />
+<img align="right" height="280" width="350" alt="Woman Coding" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
 ```typescript
-interface WomanInTech {
-  identity: {
-    name: "Nicolette Mashaba";
-    pronouns: "She/Her";
-    title: "Software Engineering Student";
-    location: "Polokwane, South Africa 🇿🇦";
-    graduating: "2026";
-    mantra: "She believed she could, so she coded it ✨";
-  };
+const nicolette = {
+  role: "Software Engineering Student",
+  location: "Polokwane, South Africa 🇿🇦",
+  graduation: 2026,
+  pronouns: "She/Her",
   
-  currentlyRocking: [
-    "💼 Software Engineering Intern @ Coast IT",
-    "📱 Crafting beautiful Flutter mobile experiences",
-    "☁️ Building scalable Azure cloud solutions",
-    "🤖 Integrating AI/ML into real-world applications",
-    "🎯 Mentoring aspiring women in tech"
-  ];
+  currentWork: [
+    "Software Engineering Intern @ Coast IT",
+    "Flutter Mobile Development",
+    "Full-Stack Web Applications",
+    "Azure Cloud Solutions"
+  ],
   
-  techPowerhouse: {
-    frontend: ["React", "TypeScript", "Tailwind CSS", "Vite"],
-    backend: ["Node.js", ".NET Core", "Express", "Prisma"],
-    mobile: ["Flutter", "Dart", "Material Design"],
-    cloud: ["Azure", "Docker", "Terraform", "Kubernetes"],
-    databases: ["MongoDB", "SQL Server"],
-    aiTools: ["OpenAI API", "NLP", "Machine Learning"]
-  };
+  expertise: {
+    frontend: ["React", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", ".NET Core", "Express"],
+    mobile: ["Flutter", "Dart"],
+    cloud: ["Azure", "Docker", "Kubernetes"],
+    databases: ["MongoDB", "SQL Server"]
+  },
   
-  achievements: {
-    hackathonQueen: "🏆 AIMS 2025 Winner - Firefly Team Lead",
-    cloudCertified: "☁️ Azure Developer Associate (AZ-204)",
-    topPerformer: "⭐ CTU Excellence Award 2023",
-    experience: "💪 3+ Professional Tech Internships",
-    impact: "🌍 Building solutions that matter"
-  };
-  
-  coreValues: [
-    "Clean code is beautiful code",
-    "Representation matters in tech",
-    "Continuous learning, infinite growth",
-    "Empowering other women in STEM"
-  ];
-  
-  lifeMotto(): string {
-    return "Breaking barriers and writing code that makes a difference 💪✨";
-  }
-  
-  funFact: "I debug code faster than I pick an outfit 😄";
-}
-
-const nicolette: WomanInTech = new WomanInTech();
-console.log(nicolette.lifeMotto());
-// Output: "Breaking barriers and writing code that makes a difference 💪✨"
+  achievements: [
+    "🏆 AIMS Hackathon 2025 Winner",
+    "☁️ Azure Developer Associate (AZ-204)",
+    "⭐ CTU Top Performer 2023"
+  ]
+};
 ```
 
 <br clear="right"/>
 
-<!-- Real-time Status Updates -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=00D9FF&center=true&width=800&lines=⚡+Currently+building+at+Coast+IT+(PTY)+Ltd;💻+Passionate+about+Flutter+%2B+React+%2B+Azure;🌟+Microsoft+Azure+Certified+Cloud+Developer;✨+Graduating+2026+%7C+Open+to+Opportunities;💪+Empowering+Women+in+Tech+%7C+Breaking+Stereotypes!" />
-</div>
-
 ---
 
-## 🛠️ **MY TECH ARSENAL**
+## 🛠️ **TECH STACK**
 
-<!-- Interactive Tech Stack with Icons -->
 <div align="center">
 
-### 💻 **LANGUAGES I SPEAK (BESIDES ENGLISH!)**
-
+### Languages & Frameworks
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#languages">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#languages">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#languages">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#languages">
-        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="96">
-      <a href="#languages">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="#languages">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
       <br>Dart
     </td>
     <td align="center" width="96">
-      <a href="#languages">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
-      </a>
-      <br>SQL
-    </td>
-  </tr>
-</table>
-
-### ✨ **FRONTEND MAGIC**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#frontend">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#frontend">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#frontend">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#frontend">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="#frontend">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#frontend">
-        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-      </a>
-      <br>Vite
-    </td>
-    <td align="center" width="96">
-      <a href="#frontend">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      </a>
-      <br>Figma
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br>Flutter
     </td>
   </tr>
 </table>
 
-### ⚙️ **BACKEND POWERHOUSE**
-
+### Backend & Databases
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#backend">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <a href="#backend">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
       <br>Express
     </td>
     <td align="center" width="96">
-      <a href="#backend">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-      </a>
-      <br>.NET Core
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+      <br>.NET
     </td>
     <td align="center" width="96">
-      <a href="#backend">
-        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-      </a>
-      <br>Prisma
-    </td>
-    <td align="center" width="96">
-      <a href="#backend">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <a href="#backend">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+      <br>SQL Server
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+      <br>Prisma
     </td>
   </tr>
 </table>
 
-### 📱 **MOBILE CREATION**
-
+### Cloud & DevOps
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#mobile">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <a href="#mobile">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-      </a>
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-      <a href="#mobile">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <a href="#mobile">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
-      </a>
-      <br>Android Studio
-    </td>
-  </tr>
-</table>
-
-### ☁️ **CLOUD & DEVOPS EXPERTISE**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#cloud">
-        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
       <br>Azure
     </td>
     <td align="center" width="96">
-      <a href="#cloud">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <a href="#cloud">
-        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
       <br>Kubernetes
     </td>
     <td align="center" width="96">
-      <a href="#cloud">
-        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
       <br>Terraform
     </td>
     <td align="center" width="96">
-      <a href="#cloud">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#cloud">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      </a>
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <a href="#cloud">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      </a>
-      <br>VS Code
     </td>
   </tr>
 </table>
-
-</div>
-
-<!-- Skill Progress Bars -->
-<div align="center">
-
-### 📊 **SKILL PROFICIENCY LEVELS**
-
-![React](https://img.shields.io/badge/React-95%25-00D9FF?style=flat-square&logo=react&logoColor=white&labelColor=0a192f)
-![TypeScript](https://img.shields.io/badge/TypeScript-90%25-00CED1?style=flat-square&logo=typescript&logoColor=white&labelColor=0a192f)
-![Flutter](https://img.shields.io/badge/Flutter-92%25-00D9FF?style=flat-square&logo=flutter&logoColor=white&labelColor=0a192f)
-![Node.js](https://img.shields.io/badge/Node.js-88%25-00CED1?style=flat-square&logo=node.js&logoColor=white&labelColor=0a192f)
-![Azure](https://img.shields.io/badge/Azure-85%25-00D9FF?style=flat-square&logo=microsoft-azure&logoColor=white&labelColor=0a192f)
-![MongoDB](https://img.shields.io/badge/MongoDB-87%25-00CED1?style=flat-square&logo=mongodb&logoColor=white&labelColor=0a192f)
 
 </div>
 
 ---
 
-## 💼 **MY PROFESSIONAL JOURNEY**
-
-<div align="center">
-  
-<!-- Interactive Timeline -->
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#FF006E','primaryTextColor':'#fff','primaryBorderColor':'#FF006E','lineColor':'#00F7F7','secondaryColor':'#0a192f','tertiaryColor':'#FF006E','fontSize':'16px'}}}%%
-timeline
-    title 🚀 Career Timeline - Breaking Barriers in Tech
-    section 2024
-        Oct 2024 : 🤖 Outlier AI : AI Model Trainer : Refined 100+ AI prompts : 25% accuracy boost
-    section 2025
-        Jun 2025 : 🌐 CodeCatalyst : Web Developer Intern : MERN Stack Pro : JWT & Stripe Integration
-        Nov 2025 : 💼 Coast IT : Software Engineering Intern : Flutter Mobile Dev : Current Position
-```
-
-</div>
-
-<br>
+## 💼 **EXPERIENCE**
 
 <div align="center">
 <table width="100%">
 <tr>
 <td align="center" width="33%">
 
-### 🚀 **Coast IT (PTY) Ltd**
-<img src="https://img.shields.io/badge/CURRENT_ROLE-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f" />
-
+### 🚀 Coast IT
 **Software Engineering Intern**  
 *Nov 2025 - Dec 2025*
 
-```diff
-+ 📱 Flutter cross-platform development
-+ 👥 Agile team collaboration
-+ 🎯 Feature delivery & code reviews
-+ 💡 Problem-solving & debugging
-+ ✨ UI/UX implementation
-```
-
-**Impact:** Building production-ready mobile solutions
+Flutter mobile development  
+Agile methodology  
+Full-stack features
 
 </td>
 <td align="center" width="33%">
 
-### 🌐 **CodeCatalyst**
-<img src="https://img.shields.io/badge/COMPLETED-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f" />
-
+### 🌐 CodeCatalyst
 **Web Developer Intern**  
 *Jun 2025 - Jul 2025*
 
-```diff
-+ 💻 Full-stack MERN development
-+ 🔐 JWT authentication systems
-+ ⚡ 20% faster report generation
-+ 💳 Payment gateway integration
-+ 📧 Email automation setup
-```
-
-**Impact:** Delivered 3 production web apps
+MERN stack applications  
+JWT authentication  
+RESTful API design
 
 </td>
 <td align="center" width="33%">
 
-### 🤖 **Outlier AI**
-<img src="https://img.shields.io/badge/COMPLETED-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f" />
-
+### 🤖 Outlier AI
 **AI Model Trainer**  
 *Oct 2024 - Dec 2024*
 
-```diff
-+ 🧠 100+ AI prompts refined
-+ 📈 25% accuracy improvement
-+ ⏱️ 10hrs/week saved
-+ 🎯 Model optimization expert
-+ 📊 Quality assurance testing
-```
-
-**Impact:** Enhanced AI model performance
+AI prompt engineering  
+Model optimization  
+Quality assurance
 
 </td>
 </tr>
@@ -470,237 +227,74 @@ timeline
 
 ---
 
-## 🏆 **PROJECTS THAT MAKE ME PROUD**
-
-<!-- Interactive Project Cards -->
-<details open>
-<summary><h3>🥇 AI COMPLIANCE INTERROGATOR - AIMS Hackathon 2025 Winner 🏆</h3></summary>
+## 🏆 **FEATURED PROJECTS**
 
 <div align="center">
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500" alt="Female AI Developer"/>
 
-### **Leading the Firefly Team to Victory! 💪**
+### 🥇 AI Compliance Interrogator
+**AIMS Hackathon 2025 Winner | Team Firefly**
 
-*Building AI solutions that combat human trafficking and save lives*
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799c2b4c4238.gif" width="400" alt="AI Development"/>
 
-</div>
+AI-powered solution combating human trafficking through intelligent data analysis and pattern recognition.
 
-**🌟 My Role:** Full-Stack Developer & Team Contributor
-
-**💖 The Mission:**  
-Developed an intelligent compliance tool that uses AI to analyze patterns and detect potential human trafficking cases. This project isn't just code - it's about making a real difference in people's lives.
-
-**✨ Key Features I Built:**
-- 🤖 Natural Language Processing for data analysis
-- 💻 Interactive React dashboard with real-time updates
-- 🔔 Automated notification system
-- ☁️ Secure Azure cloud deployment
-- 🔒 Enterprise-grade security implementation
-- 🎨 Intuitive UI/UX design
-
-**🛠️ Tech Stack:**
-```
-Frontend:  React + TypeScript + Tailwind CSS + Vite
-Backend:   .NET Core + Entity Framework + RESTful APIs
-Database:  SQL Server with optimized queries
-Cloud:     Microsoft Azure (App Services + Functions + Key Vault)
-AI/ML:     OpenAI API integration + Custom NLP models
-DevOps:    Azure DevOps + CI/CD pipelines
-```
-
-**📊 Impact Metrics:**
-- ⚡ Real-time data processing
-- 🎯 90%+ accuracy in pattern detection
-- 🚀 Scalable to handle 10,000+ records
-- 💪 Helped win 1st place in hackathon!
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</div>
-
-</details>
-
-<details>
-<summary><h3>🌐 FULL-STACK WEB APPLICATIONS - CodeCatalyst Portfolio</h3></summary>
-
-<div align="center">
-<img src="https://media.tenor.com/S59bXuClYZgAAAAC/programming-girl.gif" width="500" alt="Female Web Developer"/>
-
-### **From Concept to Deployment - I Build It All! ✨**
-
-</div>
-
-**🎯 What I Created:**  
-Multiple production-ready web applications during my internship at CodeCatalyst, showcasing full-stack expertise from database design to user interface.
-
-**💫 Standout Features:**
-- 🔐 **Secure Authentication:** JWT-based auth with refresh tokens & role-based access
-- 💳 **Payment Processing:** Stripe integration for seamless transactions
-- 📧 **Email Automation:** Nodemailer for notifications & confirmations
-- 📱 **Responsive Design:** Mobile-first Tailwind CSS approach
-- 🗄️ **Database Design:** Efficient MongoDB schemas & indexing
-- 🔌 **RESTful APIs:** Well-documented, scalable backend architecture
-- ⚡ **Performance:** Optimized loading times & caching strategies
-
-**🛠️ Technologies Used:**
-```
-Frontend:  React 18 + Vite + Tailwind CSS + React Router
-Backend:   Node.js + Express.js + MongoDB + Mongoose
-Auth:      JWT + bcrypt + cookie-parser
-Payments:  Stripe API integration
-Email:     Nodemailer with custom templates
-Deploy:    Vercel (frontend) + Render (backend)
-```
-
-**📈 Business Impact:**
-- ⚡ 20% faster report generation
-- 📊 Improved user engagement by 35%
-- 🎯 Zero security vulnerabilities
-- 💪 Successfully deployed to production
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
-
-</details>
-
-<details>
-<summary><h3>📱 FLUTTER MOBILE APPLICATIONS - Coast IT Projects</h3></summary>
-
-<div align="center">
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" alt="Female Mobile Developer"/>
-
-### **Crafting Beautiful Mobile Experiences! 💖**
-
-</div>
-
-**📱 Current Focus:**  
-Building cross-platform mobile applications using Flutter at Coast IT, bringing ideas to life on both iOS and Android from a single codebase.
-
-**✨ What Makes My Apps Special:**
-- 🎨 **Beautiful UI/UX:** Material Design 3 with custom animations
-- 🔄 **Smart State Management:** Provider & Riverpod for efficient data flow
-- 🌐 **API Integration:** RESTful services with error handling
-- 📦 **Local Storage:** Efficient data caching with Hive/SharedPreferences
-- 🎯 **Performance:** Optimized for 60fps animations
-- 📸 **Media Handling:** Camera, gallery, and file uploads
-- 🗺️ **Location Services:** Google Maps integration
-- 🔔 **Push Notifications:** Firebase Cloud Messaging
-
-**🛠️ Tech Stack:**
-```
-Framework:   Flutter 3.x + Dart 3.x
-State:       Provider + Riverpod + GetX
-Backend:     Firebase + REST APIs
-Database:    Hive + SQLite + Cloud Firestore
-UI/UX:       Material Design 3 + Custom widgets
-Maps:        Google Maps Flutter
-Storage:     Firebase Storage + Cloudinary
-Analytics:   Firebase Analytics + Crashlytics
-```
-
-**🎯 Development Approach:**
-- 📱 Mobile-first responsive design
-- ♿ Accessibility features included
-- 🌍 Internationalization support
-- 🧪 Comprehensive widget testing
-- 🚀 Agile development methodology
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white" />
-</div>
-
-</details>
-
-<details>
-<summary><h3>☁️ AZURE CLOUD SOLUTIONS - Certified Projects</h3></summary>
-
-<div align="center">
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" alt="Female Cloud Engineer"/>
-
-### **Building Scalable Cloud Infrastructure! ☁️**
-
-</div>
-
-**☁️ My Cloud Journey:**  
-As a Microsoft Azure Certified Developer (AZ-204), I architect and deploy enterprise-grade cloud solutions that are secure, scalable, and cost-effective.
-
-**💪 Cloud Capabilities:**
-- ⚡ **Serverless Computing:** Azure Functions for event-driven architecture
-- 🔄 **CI/CD Pipelines:** Automated deployment with Azure DevOps
-- 🐳 **Containerization:** Docker + Azure Kubernetes Service (AKS)
-- 🏗️ **Infrastructure as Code:** Terraform for reproducible deployments
-- 🔒 **Security:** Azure Key Vault, Managed Identities, RBAC
-- 📊 **Monitoring:** Application Insights, Log Analytics
-- 🗄️ **Data Services:** Cosmos DB, SQL Database, Blob Storage
-- 🌐 **Networking:** Virtual Networks, Application Gateway, CDN
-
-**🛠️ Tech Stack:**
-```
-Cloud Platform:  Microsoft Azure (AZ-204 Certified)
-Compute:         Azure Functions, App Services, AKS
-Containers:      Docker, Kubernetes, Azure Container Registry
-IaC:             Terraform, ARM Templates, Bicep
-CI/CD:           Azure DevOps, GitHub Actions
-Monitoring:      Application Insights, Azure Monitor
-Security:        Azure Key Vault, Azure AD, Managed Identities
-```
-
-**🎯 Real-World Implementations:**
-- 🚀 Deployed scalable microservices architecture
-- 💰 Reduced infrastructure costs by 30%
-- 🔒 Implemented zero-trust security model
-- ⚡ Achieved 99.9% uptime SLA
-- 📈 Automated deployment processes
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-</div>
-
-</details>
+**Tech Stack:** React • TypeScript • .NET Core • Azure • OpenAI API
 
 ---
 
-## 📊 **MY GITHUB STORY IN NUMBERS**
+### 🌐 Full-Stack Web Platform
+**Production MERN Applications**
 
-<div align="center">
-  
-<!-- Stats Cards with Custom Styling -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NickiMash17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00D9FF&icon_color=00CED1&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=💻%20Nicolette's%20GitHub%20Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NickiMash17&theme=tokyonight&hide_border=true&background=0a192f&stroke=00D9FF&ring=00CED1&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00CED1&sideLabels=00CED1&dates=ffffff" />
+<img src="https://i.pinimg.com/originals/19/56/29/1956296f02e4c6d3d8b5aeb19024f672.gif" width="400" alt="Web Development"/>
+
+Secure web applications with JWT authentication, payment integration, and responsive design.
+
+**Tech Stack:** React • Node.js • MongoDB • Express • Tailwind CSS
+
+---
+
+### 📱 Flutter Mobile Apps
+**Cross-Platform Solutions**
+
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7bebf9541a074f32e4ca0e43e6.gif" width="400" alt="Mobile Development"/>
+
+Beautiful, performant mobile applications for iOS and Android platforms.
+
+**Tech Stack:** Flutter • Dart • Firebase • Material Design
+
+---
+
+### ☁️ Azure Cloud Architecture
+**Enterprise Solutions**
+
+<img src="https://cdn.dribbble.com/users/1322540/screenshots/4540298/media/86a261235bbb853fb62114e062c9eaa8.gif" width="400" alt="Cloud Computing"/>
+
+Scalable cloud infrastructure with serverless functions and containerized deployments.
+
+**Tech Stack:** Azure • Docker • Kubernetes • Terraform
 
 </div>
 
+---
+
+## 📊 **GITHUB STATS**
+
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickiMash17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00D9FF&text_color=ffffff&langs_count=10&hide=html,css&custom_title=💻%20Languages%20I%20Love" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NickiMash17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00D9FF&icon_color=00CED1&text_color=ffffff&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NickiMash17&theme=tokyonight&hide_border=true&background=0a192f&stroke=00D9FF&ring=00CED1&fire=00D9FF&currStreakNum=ffffff&currStreakLabel=00CED1&dates=ffffff" />
 </div>
 
-<!-- Trophy Showcase -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NickiMash17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=Stars,Commits,Repositories,PullRequest,Issues,Followers,MultiLanguage" width="100%" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickiMash17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00D9FF&text_color=ffffff&langs_count=8&hide=html,css" />
 </div>
 
-<!-- Interactive Pacman Game -->
+<!-- Pacman Game -->
 <div align="center">
-  <h3>🎮 Watch Pacman Eat My Contributions! 🎮</h3>
+  <h3>🎮 Pacman Eating My Contributions 🎮</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
@@ -713,71 +307,29 @@ Security:        Azure Key Vault, Azure AD, Managed Identities
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 **ACADEMIC JOURNEY**
+### 🎓 Education
 
-<img src="https://img.shields.io/badge/Software_Engineering-NQF_6-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=google-scholar" />
+**Software Engineering** (NQF 6)  
+CTU Training Solutions  
+Expected: 2026
 
-**CTU Training Solutions**  
-*Occupational Certificate in Software Engineering*
-
-📅 Expected Graduation: **2026**
-
-**Focus Areas:**
-- 💻 Full-Stack Web Development
-- ☁️ Cloud Computing & DevOps
-- 📱 Mobile Application Development
-- 🏗️ Software Architecture & Design
-- 🗄️ Database Management Systems
-- 🔐 Security & Authentication
-
----
-
-<img src="https://img.shields.io/badge/IT_Programming-NQF_4-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=code" />
-
-**CTU Training Solutions**  
-*IT Programming Foundation*
-
-📅 Graduated: **2024**  
-🏆 Achievement: **Top Performer 2023**
+**IT Programming Foundation** (NQF 4)  
+CTU Training Solutions  
+Graduated: 2024 | Top Performer 2023
 
 </td>
 <td width="50%" valign="top">
 
-### 📜 **PROFESSIONAL CERTIFICATIONS**
+### 📜 Certifications
 
-<div align="center">
+**Microsoft Azure Developer Associate (AZ-204)**  
+Cloud Development & Architecture
 
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" width="100%" />
+**Microsoft Azure Data Fundamentals (DP-900)**  
+Data Services & Management
 
-**AZ-204: Azure Developer Associate**  
-*Developing Solutions for Microsoft Azure*  
-☁️ Cloud Architecture & Development
-
----
-
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" width="100%" />
-
-**DP-900: Azure Data Fundamentals**  
-*Core Data Concepts & Services*  
-🗄️ Data Management & Analytics
-
----
-
-<img src="https://img.shields.io/badge/SheCodes-00D9FF?style=for-the-badge&logoColor=white" width="100%" />
-
-**Web Development Specialization**  
-*Basics, Plus & Responsive Design*  
-🎨 Frontend Development Mastery
-
----
-
-<img src="https://img.shields.io/badge/Techbridle-00CED1?style=for-the-badge&logoColor=white" width="100%" />
-
-**Software Development Bootcamp**  
-*Intensive Full-Stack Training*  
-💪 Professional Development Program
-
-</div>
+**SheCodes Web Development**  
+Responsive Design & Development
 
 </td>
 </tr>
@@ -786,242 +338,60 @@ Security:        Azure Key Vault, Azure AD, Managed Identities
 
 ---
 
-## 🏅 **ACHIEVEMENTS & RECOGNITION**
+## 🏅 **ACHIEVEMENTS**
 
 <div align="center">
 
-| 🎯 Achievement | 💫 Details | 📅 Year |
+| Achievement | Details | Year |
 |:---:|:---:|:---:|
-| **🏆 AIMS Hackathon Winner** | 🥇 Best Team - Application & Visualisation<br>*Led Firefly team to 1st place with AI solution*<br>**Built AI Compliance Interrogator** | 2025 |
-| **☁️ Azure Certified Developer** | 💪 Microsoft AZ-204 Developer Associate<br>*Enterprise Cloud Development Expertise*<br>**Serverless & Containerization** | 2024 |
-| **⭐ CTU Top Performer** | 🌟 Programming Foundation Excellence<br>*Outstanding Academic Achievement*<br>**Top of Class Recognition** | 2023 |
-| **💼 J.P. Morgan Simulation** | 🏦 Midas Core Software Engineering<br>*Forage Platform Completion*<br>**Financial Tech Experience** | 2025 |
-| **🚀 Multiple Internships** | 💪 Coast IT, CodeCatalyst, Outlier AI<br>*Diverse Industry Experience*<br>**3+ Professional Roles** | 2024-2025 |
-| **👩‍💻 Women in Tech Advocate** | 💖 Mentoring & Community Building<br>*Inspiring the Next Generation*<br>**Breaking Barriers** | Ongoing |
+| **🏆 AIMS Hackathon Winner** | 1st Place - AI Compliance Interrogator | 2025 |
+| **☁️ Azure Certified** | AZ-204 Developer Associate | 2024 |
+| **⭐ Academic Excellence** | CTU Top Performer | 2023 |
+| **💼 Professional Growth** | 3+ Technical Internships | 2024-2025 |
 
 </div>
 
 ---
 
-## 💡 **SKILLS & SUPERPOWERS**
+## 🤝 **LET'S CONNECT**
 
 <div align="center">
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 💻 **TECHNICAL EXPERTISE**
-
-```python
-technical_skills = {
-    "full_stack_web": {
-        "level": "⭐⭐⭐⭐⭐ Expert",
-        "technologies": ["MERN Stack", ".NET Core", "RESTful APIs"],
-        "experience": "3+ years",
-        "projects": "20+ applications"
-    },
-    "mobile_development": {
-        "level": "⭐⭐⭐⭐⭐ Expert",
-        "technologies": ["Flutter", "Dart", "Cross-platform"],
-        "experience": "2+ years",
-        "projects": "10+ apps"
-    },
-    "cloud_architecture": {
-        "level": "⭐⭐⭐⭐⭐ Certified",
-        "technologies": ["Azure", "Docker", "Kubernetes", "Terraform"],
-        "certification": "AZ-204",
-        "deployments": "15+ production systems"
-    },
-    "database_management": {
-        "level": "⭐⭐⭐⭐ Advanced",
-        "technologies": ["MongoDB", "SQL Server", "PostgreSQL"],
-        "expertise": "Schema design & optimization"
-    },
-    "ai_ml_integration": {
-        "level": "⭐⭐⭐⭐ Advanced",
-        "technologies": ["OpenAI API", "NLP", "TensorFlow"],
-        "projects": "AI-powered applications"
-    },
-    "devops_cicd": {
-        "level": "⭐⭐⭐⭐ Advanced",
-        "technologies": ["Azure DevOps", "GitHub Actions", "Docker"],
-        "automation": "Fully automated pipelines"
-    }
-}
-
-print("💪 Always learning, always growing!")
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 **PROFESSIONAL QUALITIES**
-
-```typescript
-interface ProfessionalStrengths {
-  problemSolving: {
-    approach: "Analytical & Creative";
-    mindset: "Solution-oriented";
-    impact: "Delivers results under pressure";
-  };
+  <h3>Open to full-time opportunities starting 2026</h3>
   
-  teamwork: {
-    style: "Collaborative & Supportive";
-    methodology: "Agile/Scrum";
-    role: "Team player & leader";
-  };
-  
-  communication: {
-    clarity: "Clear & Concise";
-    empathy: "Active listener";
-    presentation: "Confident speaker";
-  };
-  
-  leadership: {
-    experience: "Hackathon team lead";
-    mentorship: "Guides junior developers";
-    advocacy: "Women in tech champion";
-  };
-  
-  adaptability: {
-    learning: "Fast & eager learner";
-    flexibility: "Thrives in dynamic environments";
-    growth: "Embraces challenges";
-  };
-  
-  workEthic: {
-    dedication: "Committed to excellence";
-    reliability: "Meets deadlines consistently";
-    passion: "Loves what she does";
-  };
-}
-
-const nicolette: ProfessionalStrengths;
-// "She codes with passion and purpose! 💖"
-```
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 🌟 **WHAT DRIVES ME**
-
-<div align="center">
-
-### 💖 **MY MISSION IN TECH**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=FF006E&center=true&width=800&lines=💪+Empowering+women+in+technology;✨+Building+solutions+that+make+a+difference;🚀+Breaking+barriers+and+stereotypes;💖+Creating+inclusive+tech+spaces;🌍+Using+code+to+solve+real+problems;🎯+Inspiring+the+next+generation" />
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-### 💪 **Representation Matters**
-
-As a woman in tech from South Africa, I'm passionate about increasing diversity in the industry. I actively mentor aspiring female developers and advocate for inclusive tech spaces.
-
-</td>
-<td width="33%" align="center">
-
-### 🌍 **Impact-Driven Development**
-
-I don't just write code - I build solutions that matter. From combating human trafficking with AI to creating accessible applications, my work has purpose.
-
-</td>
-<td width="33%" align="center">
-
-### 🚀 **Continuous Growth**
-
-Technology evolves rapidly, and so do I. I'm committed to lifelong learning, staying current with emerging technologies, and pushing my boundaries every day.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🤝 **LET'S CREATE SOMETHING AMAZING TOGETHER**
-
-<div align="center">
-  
-### 💌 **I'm Open To:**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00D9FF&center=true&width=900&lines=💼+Full-Time+Software+Engineering+Opportunities;🚀+Freelance+%26+Contract+Projects;🤝+Open+Source+Collaborations;🎤+Speaking+Engagements+%26+Tech+Talks;👩‍🏫+Mentorship+%26+Teaching+Opportunities;🌍+Remote+Work+Opportunities+Worldwide" />
-
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:nene171408@gmail.com">
+          <img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=gmail" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://nickimash.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=vercel" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/nicolette-mashaba-b094a5221/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=linkedin" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NickiMash17" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=github" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
 <div align="center">
-<table>
-<tr>
-<td align="center">
-<a href="mailto:nene171408@gmail.com">
-<img src="https://img.shields.io/badge/✉️_EMAIL_ME-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=gmail" />
-</a>
-<br><sub><b>Direct Communication</b></sub><br>
-<sub>Let's discuss opportunities!</sub>
-</td>
-<td align="center">
-<a href="https://nickimash.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=vercel" />
-</a>
-<br><sub><b>View My Work</b></sub><br>
-<sub>See my projects in action</sub>
-</td>
-<td align="center">
-<a href="https://www.linkedin.com/in/nicolette-mashaba-b094a5221/" target="_blank">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=linkedin" />
-</a>
-<br><sub><b>Professional Network</b></sub><br>
-<sub>Let's connect professionally</sub>
-</td>
-<td align="center">
-<a href="https://github.com/NickiMash17" target="_blank">
-<img src="https://img.shields.io/badge/⚡_GITHUB-00CED1?style=for-the-badge&logoColor=white&labelColor=0a192f&logo=github" />
-</a>
-<br><sub><b>Code Repository</b></sub><br>
-<sub>Explore my contributions</sub>
-</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>💖 "She believed she could, so she coded it!" ✨</h2>
-  <p><em>Graduating 2026 | Available for exciting opportunities | Let's build the future together!</em></p>
+  <sub>⭐ Thank you for visiting! Feel free to explore my repositories ⭐</sub>
 </div>
 
 ---
 
-## 📊 **LIVE ACTIVITY FEED**
-
-<!-- Interactive Pacman Game eating contributions -->
-<div align="center">
-  <h3>🎮 Watch Pacman Eat My Contributions! 🎮</h3>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Pacman Game Animation" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <h3>💕 Thank you for visiting my profile! 💕</h3>
-  <p><sub>⭐ If you like what you see, don't forget to star my repositories! ⭐</sub></p>
-  <p><sub>Made with 💖 by Nicolette Mashaba | Last Updated: December 2024</sub></p>
-</div>
-
-<!-- Final Wave Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
