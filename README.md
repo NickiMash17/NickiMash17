@@ -61,7 +61,7 @@
 
 ## 👩‍💻 **ABOUT ME**
 
-<img align="right" height="280" width="350" alt="Woman Coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" />
+<img align="right" height="280" width="350" alt="Woman Coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ```typescript
 const nicolette = {
