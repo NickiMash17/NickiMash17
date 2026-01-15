@@ -484,92 +484,35 @@ Production-ready cloud solutions leveraging Azure services, containerization, an
 
 ---
 
-## 📊 GITHUB ANALYTICS & ACTIVITY
+## 📊 CODE ANALYTICS & DEVELOPER INTELLIGENCE
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00D9FF&center=true&width=800&lines=Code+Quality+%7C+Consistency+%7C+Innovation;Transforming+Ideas+into+Production-Ready+Solutions" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
 </div>
 
 <br>
 
-<!-- Main Stats Dashboard -->
 <div align="center">
-  
-  ### 🎯 **Performance Dashboard**
-  
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=NickiMash17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00D9FF&icon_color=00CED1&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github&custom_title=💻+Nicolette's+GitHub+Stats" />
-  <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=NickiMash17&theme=tokyonight&hide_border=true&background=0a192f&stroke=00D9FF&ring=00CED1&fire=00D9FF&currStreakNum=ffffff&currStreakLabel=00CED1&dates=ffffff&sideNums=00CED1&sideLabels=00CED1" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&lines=From+Naval+Precision+to+Code+Excellence;10%2B+Efficiency+Gains+%7C+25%25+AI+Accuracy+Boost;Building+Scalable+Systems+%7C+80%25%2B+Test+Coverage;Microservices+%7C+Cloud+Native+%7C+AI+Powered" alt="Dev Stats" />
 </div>
 
 <br>
 
-<!-- Code Distribution & Activity -->
+<!-- Epic Stats Grid -->
 <div align="center">
-  
-  ### 📈 **Code Distribution & Contribution Patterns**
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NickiMash17&theme=tokyonight" width="100%" />
-
-</div>
-
-<br>
-
-<!-- Language & Time Analysis -->
-<div align="center">
-  
-  ### 🔥 **Technology Focus & Productivity Insights**
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NickiMash17&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NickiMash17&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NickiMash17&theme=tokyonight&utcOffset=2" width="32%" />
-
-</div>
-
-<br>
-
-<!-- Advanced Analytics -->
-<div align="center">
-  
-  ### 🌟 **Deep Dive Analytics**
   
   <table width="100%">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickiMash17&layout=donut&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00D9FF&text_color=ffffff&langs_count=8&hide=html,css&custom_title=🎨+Language+Mastery" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=NickiMash17&theme=tokyo-night&hide_border=true&bg_color=0a192f&color=00D9FF&line=00CED1&point=ffffff&area=true&area_color=00D9FF&height=300&custom_title=📊+Contribution+Graph" />
+      <td colspan="2" align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=NickiMash17&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Issues,Followers" width="100%" />
       </td>
     </tr>
-  </table>
-
-</div>
-
-<br>
-
-<!-- Metrics Summary -->
-<div align="center">
-  
-  ### 💎 **Key Metrics & Achievements**
-  
-  <table>
     <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Total_Commits-1000+-00D9FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0a192f" /><br>
-        <sub>📝 Consistent Contributor</sub>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=NickiMash17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00D9FF&icon_color=00CED1&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github&custom_title=⚡+Performance+Metrics&show=reviews,prs_merged,prs_merged_percentage" width="100%" />
       </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Pull_Requests-50+-00CED1?style=for-the-badge&logo=github&logoColor=white&labelColor=0a192f" /><br>
-        <sub>🔄 Collaborative Coder</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Code_Reviews-100+-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a192f" /><br>
-        <sub>👀 Quality Focused</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Issues_Resolved-75+-00CED1?style=for-the-badge&logo=github&logoColor=white&labelColor=0a192f" /><br>
-        <sub>🔧 Problem Solver</sub>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickiMash17&theme=tokyonight&hide_border=true&background=0a192f&stroke=00D9FF&ring=00CED1&fire=00D9FF&currStreakNum=ffffff&currStreakLabel=00CED1&dates=ffffff&sideNums=00CED1&sideLabels=00CED1" width="100%" />
       </td>
     </tr>
   </table>
@@ -578,27 +521,46 @@ Production-ready cloud solutions leveraging Azure services, containerization, an
 
 <br>
 
-<!-- Coding Philosophy -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
+</div>
+
+<br>
+
+<!-- 3D Contribution -->
 <div align="center">
   
-  ### 💭 **Coding Philosophy**
+  ### 🌊 **CONTRIBUTION OCEAN**
+  <sub>*Navigating the seas of code with naval precision*</sub>
   
-  <table width="90%">
+  <br><br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NickiMash17&bg_color=0a192f&color=00D9FF&line=00CED1&point=fff&area=true&area_color=00D9FF&title_color=00D9FF&custom_title=🗺️+Annual+Code+Navigation+Chart" width="100%" />
+  
+  <br>
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NickiMash17&theme=tokyonight" width="100%" />
+
+</div>
+
+<br>
+
+<!-- Language Arsenal -->
+<div align="center">
+  
+  ### 🎯 **TECHNOLOGY ARSENAL**
+  
+  <table width="100%">
     <tr>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60" height="60"/><br>
-        <b>Clean Code</b><br>
-        <sub>Readable, maintainable,<br>and well-documented</sub>
+      <td width="33%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickiMash17&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00D9FF&text_color=ffffff&langs_count=8&hide=html,css&custom_title=🔥+Language+Distribution" width="100%" />
       </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/test-tube.png" width="60" height="60"/><br>
-        <b>Test-Driven</b><br>
-        <sub>80%+ test coverage<br>on all projects</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60" height="60"/><br>
-        <b>Performance First</b><br>
-        <sub>Optimized, scalable<br>solutions</sub>
+      <td width="67%" valign="top">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NickiMash17&theme=tokyonight" width="49%" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NickiMash17&theme=tokyonight" width="49%" />
+        <br>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NickiMash17&theme=tokyonight&utcOffset=2" width="49%" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NickiMash17&theme=tokyonight" width="49%" />
       </td>
     </tr>
   </table>
@@ -607,15 +569,154 @@ Production-ready cloud solutions leveraging Azure services, containerization, an
 
 <br>
 
-<!-- Fun Stats -->
+<!-- Military Precision Metrics -->
 <div align="center">
   
-  ### 🎮 **Fun Developer Stats**
+  ### ⚓ **MILITARY-GRADE CODE METRICS**
+  <sub>*Discipline forged in the navy, applied to software engineering*</sub>
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NickiMash17&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00D9FF&text_color=ffffff&layout=compact&custom_title=⏰+Coding+Time+Distribution" width="49%" />
+  <br><br>
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.&author=Cory+House&border=true&borderColor=00D9FF" width="49%" />
+  <table width="100%">
+    <tr>
+      <td align="center" width="16.66%">
+        <img src="https://img.shields.io/badge/🎖️-COMMITS-00D9FF?style=for-the-badge&labelColor=0a192f" /><br>
+        <img src="https://img.shields.io/badge/1000+-ffffff?style=flat-square&labelColor=0a192f" /><br>
+        <sub><b>Consistent<br>Contributor</b></sub>
+      </td>
+      <td align="center" width="16.66%">
+        <img src="https://img.shields.io/badge/⚡-PR_MERGED-00CED1?style=for-the-badge&labelColor=0a192f" /><br>
+        <img src="https://img.shields.io/badge/50+-ffffff?style=flat-square&labelColor=0a192f" /><br>
+        <sub><b>Team<br>Collaborator</b></sub>
+      </td>
+      <td align="center" width="16.66%">
+        <img src="https://img.shields.io/badge/🔍-CODE_REVIEWS-00D9FF?style=for-the-badge&labelColor=0a192f" /><br>
+        <img src="https://img.shields.io/badge/100+-ffffff?style=flat-square&labelColor=0a192f" /><br>
+        <sub><b>Quality<br>Guardian</b></sub>
+      </td>
+      <td align="center" width="16.66%">
+        <img src="https://img.shields.io/badge/🛠️-ISSUES_FIXED-00CED1?style=for-the-badge&labelColor=0a192f" /><br>
+        <img src="https://img.shields.io/badge/75+-ffffff?style=flat-square&labelColor=0a192f" /><br>
+        <sub><b>Problem<br>Solver</b></sub>
+      </td>
+      <td align="center" width="16.66%">
+        <img src="https://img.shields.io/badge/🧪-TEST_COVERAGE-00D9FF?style=for-the-badge&labelColor=0a192f" /><br>
+        <img src="https://img.shields.io/badge/80%25+-ffffff?style=flat-square&labelColor=0a192f" /><br>
+        <sub><b>Quality<br>Assurance</b></sub>
+      </td>
+      <td align="center" width="16.66%">
+        <img src="https://img.shields.io/badge/📦-REPOSITORIES-00CED1?style=for-the-badge&labelColor=0a192f" /><br>
+        <img src="https://img.shields.io/badge/30+-ffffff?style=flat-square&labelColor=0a192f" /><br>
+        <sub><b>Portfolio<br>Diverse</b></sub>
+      </td>
+    </tr>
+  </table>
 
+</div>
+
+<br>
+
+<!-- Real Impact Metrics -->
+<div align="center">
+  
+  ### 💥 **REAL-WORLD IMPACT METRICS**
+  
+  <table width="95%">
+    <tr>
+      <td align="center" width="25%" bgcolor="#0a192f">
+        <br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="AI" width="50" height="50" />
+        <h3 style="color:#00D9FF; margin:10px 0;">+25%</h3>
+        <b>AI Model Accuracy</b><br>
+        <sub>Improved through strategic<br>prompt engineering & training</sub>
+        <br><br>
+      </td>
+      <td align="center" width="25%" bgcolor="#0a192f">
+        <br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hourglass Done.png" alt="Time" width="50" height="50" />
+        <h3 style="color:#00CED1; margin:10px 0;">10hrs/week</h3>
+        <b>Time Saved</b><br>
+        <sub>Engineering workflow<br>optimizations & automation</sub>
+        <br><br>
+      </td>
+      <td align="center" width="25%" bgcolor="#0a192f">
+        <br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel and places/Fuel Pump.png" alt="Efficiency" width="50" height="50" />
+        <h3 style="color:#00D9FF; margin:10px 0;">-10%</h3>
+        <b>Fuel Efficiency</b><br>
+        <sub>Naval voyage optimization<br>strategic planning skills</sub>
+        <br><br>
+      </td>
+      <td align="center" width="25%" bgcolor="#0a192f">
+        <br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Reliability" width="50" height="50" />
+        <h3 style="color:#00CED1; margin:10px 0;">99.9%</h3>
+        <b>System Uptime</b><br>
+        <sub>Production-grade<br>cloud deployments</sub>
+        <br><br>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br>
+
+<!-- Development Philosophy -->
+<div align="center">
+  
+  ### 🧭 **ENGINEERING PHILOSOPHY**
+  <sub>*From navigating oceans to navigating codebases*</sub>
+  
+  <br><br>
+  
+  <table width="100%">
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" height="80" /><br>
+        <b>🎯 Strategic</b><br>
+        <sub>Naval precision meets<br>architectural planning</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80" height="80" /><br>
+        <b>🧪 Test-Driven</b><br>
+        <sub>80%+ coverage on<br>every project</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="80" height="80" /><br>
+        <b>☁️ Cloud-Native</b><br>
+        <sub>Scalable, resilient<br>microservices</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80" height="80" /><br>
+        <b>🤖 AI-Powered</b><br>
+        <sub>Integrating intelligence<br>into solutions</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="80" height="80" /><br>
+        <b>⚡ Performance</b><br>
+        <sub>Optimized for<br>speed & efficiency</sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br>
+
+<!-- Coding Activity Heatmap -->
+<div align="center">
+  
+  ### 📅 **ANNUAL CODE CONTRIBUTION HEATMAP**
+  
+  <img src="https://ghchart.rshah.org/00D9FF/NickiMash17" width="100%" alt="GitHub Contributions Chart" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
 </div>
 
 ---
