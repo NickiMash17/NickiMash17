@@ -487,30 +487,134 @@ Production-ready cloud solutions leveraging Azure services, containerization, an
 ## 📊 GITHUB ANALYTICS & ACTIVITY
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00D9FF&center=true&width=800&lines=Code+Quality+%7C+Consistency+%7C+Innovation;Transforming+Ideas+into+Production-Ready+Solutions" />
+</div>
+
+<br>
+
+<!-- Main Stats Dashboard -->
+<div align="center">
   
-  <!-- Stats Row 1 -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NickiMash17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00D9FF&icon_color=00CED1&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NickiMash17&theme=tokyonight&hide_border=true&background=0a192f&stroke=00D9FF&ring=00CED1&fire=00D9FF&currStreakNum=ffffff&currStreakLabel=00CED1&dates=ffffff" />
+  ### 🎯 **Performance Dashboard**
   
-  <!-- Stats Row 2 -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickiMash17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00D9FF&text_color=ffffff&langs_count=10&hide=html,css&exclude_repo=github-readme-stats" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=NickiMash17&theme=tokyo-night&hide_border=true&bg_color=0a192f&color=00D9FF&line=00CED1&point=ffffff&area=true&area_color=00D9FF" />
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=NickiMash17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00D9FF&icon_color=00CED1&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github&custom_title=💻+Nicolette's+GitHub+Stats" />
+  <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=NickiMash17&theme=tokyonight&hide_border=true&background=0a192f&stroke=00D9FF&ring=00CED1&fire=00D9FF&currStreakNum=ffffff&currStreakLabel=00CED1&dates=ffffff&sideNums=00CED1&sideLabels=00CED1" />
 
 </div>
 
 <br>
 
+<!-- Code Distribution & Activity -->
 <div align="center">
   
-  <!-- Detailed Contribution Stats -->
+  ### 📈 **Code Distribution & Contribution Patterns**
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NickiMash17&theme=tokyonight" width="100%" />
+
+</div>
+
+<br>
+
+<!-- Language & Time Analysis -->
+<div align="center">
   
-  <br><br>
+  ### 🔥 **Technology Focus & Productivity Insights**
   
-  <!-- Additional Stats Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NickiMash17&theme=tokyonight" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NickiMash17&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NickiMash17&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NickiMash17&theme=tokyonight&utcOffset=2" width="32%" />
+
+</div>
+
+<br>
+
+<!-- Advanced Analytics -->
+<div align="center">
+  
+  ### 🌟 **Deep Dive Analytics**
+  
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickiMash17&layout=donut&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00D9FF&text_color=ffffff&langs_count=8&hide=html,css&custom_title=🎨+Language+Mastery" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=NickiMash17&theme=tokyo-night&hide_border=true&bg_color=0a192f&color=00D9FF&line=00CED1&point=ffffff&area=true&area_color=00D9FF&height=300&custom_title=📊+Contribution+Graph" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br>
+
+<!-- Metrics Summary -->
+<div align="center">
+  
+  ### 💎 **Key Metrics & Achievements**
+  
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Total_Commits-1000+-00D9FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0a192f" /><br>
+        <sub>📝 Consistent Contributor</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Pull_Requests-50+-00CED1?style=for-the-badge&logo=github&logoColor=white&labelColor=0a192f" /><br>
+        <sub>🔄 Collaborative Coder</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Code_Reviews-100+-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a192f" /><br>
+        <sub>👀 Quality Focused</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Issues_Resolved-75+-00CED1?style=for-the-badge&logo=github&logoColor=white&labelColor=0a192f" /><br>
+        <sub>🔧 Problem Solver</sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br>
+
+<!-- Coding Philosophy -->
+<div align="center">
+  
+  ### 💭 **Coding Philosophy**
+  
+  <table width="90%">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60" height="60"/><br>
+        <b>Clean Code</b><br>
+        <sub>Readable, maintainable,<br>and well-documented</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/000000/test-tube.png" width="60" height="60"/><br>
+        <b>Test-Driven</b><br>
+        <sub>80%+ test coverage<br>on all projects</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60" height="60"/><br>
+        <b>Performance First</b><br>
+        <sub>Optimized, scalable<br>solutions</sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br>
+
+<!-- Fun Stats -->
+<div align="center">
+  
+  ### 🎮 **Fun Developer Stats**
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NickiMash17&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00D9FF&text_color=ffffff&layout=compact&custom_title=⏰+Coding+Time+Distribution" width="49%" />
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.&author=Cory+House&border=true&borderColor=00D9FF" width="49%" />
 
 </div>
 
