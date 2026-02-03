@@ -125,7 +125,7 @@ const nicolette = {
 <tr>
 <td width="33%" align="center" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
 ### 🤖 EmpowerAI
 
@@ -146,13 +146,13 @@ South Africa's Digital Economic Twin for youth empowerment.
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 
-### 🏆 AI Guardian
+### 🛡️ AI Compliance Interrogator
 
 **Hackathon Winner** 🥇
 
-AI compliance platform combating human trafficking through NLP.
+AI-powered platform combating human trafficking through NLP analysis.
 
 **Achievement:**
 - AIMS 2025 Winner
@@ -166,7 +166,7 @@ AI compliance platform combating human trafficking through NLP.
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 
 ### 🌱 FitQuest
 
