@@ -14,9 +14,7 @@
   <a href="https://www.linkedin.com/in/nicolette-mashaba-b094a5221/"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f" /></a>
   <a href="https://x.com/m_neyi"><img src="https://img.shields.io/badge/𝕏_Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0a192f" /></a>
 </p>
-<br>
-[![committers.top badge](https://user-badge.committers.top/south_africa/USERNAME.svg)](https://user-badge.committers.top/south_africa/NickiMash17)
-<br>
+
 <!-- Animated Contribution Snake -->
 <div align="center">
   <picture>
