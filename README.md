@@ -13,6 +13,8 @@
   <a href="mailto:nene171408@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f" /></a>
   <a href="https://www.linkedin.com/in/nicolette-mashaba-b094a5221/"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f" /></a>
   <a href="https://x.com/m_neyi"><img src="https://img.shields.io/badge/𝕏_Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0a192f" /></a>
+  <br><br>
+  <a href="https://user-badge.committers.top/south_africa/NickiMash17"><img src="https://user-badge.committers.top/south_africa/NickiMash17.svg" alt="Top Committer in South Africa" /></a>
 </p>
 
 <!-- Animated Contribution Snake -->
