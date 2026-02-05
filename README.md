@@ -7,14 +7,16 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=From+Navigating+Oceans+to+Architecting+Code;10%25+Fuel+Efficiency+%7C+25%25+AI+Accuracy+%7C+99.9%25+Uptime;Azure+Certified+%E2%98%81%EF%B8%8F+%7C+Hackathon+Winner+%F0%9F%8F%86+%7C+2026+Graduate" alt="Typing Animation" />
 </div>
-
+<br>
 <p align="center">
   <a href="https://nicmash-porfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a192f" /></a>
   <a href="mailto:nene171408@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f" /></a>
   <a href="https://www.linkedin.com/in/nicolette-mashaba-b094a5221/"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f" /></a>
   <a href="https://x.com/m_neyi"><img src="https://img.shields.io/badge/𝕏_Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0a192f" /></a>
 </p>
-
+<br>
+[![committers.top badge](https://user-badge.committers.top/south_africa/USERNAME.svg)](https://user-badge.committers.top/south_africa/NickiMash17)
+<br>
 <!-- Animated Contribution Snake -->
 <div align="center">
   <picture>
