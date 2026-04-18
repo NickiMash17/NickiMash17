@@ -33,13 +33,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-<!-- Pac-Man Game -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/pacman.svg" alt="Pac-Man contribution game" width="100%">
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
 ## ⚓ About Me
 
 <img align="right" height="170" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
