@@ -32,14 +32,6 @@
   </picture>
 </div>
 
-<!-- Pac-Man Game -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/pacman-contribution.svg" alt="Pac-Man Contribution Animation" width="100%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
-<br>
 
 ## ⚓ About Me
 
