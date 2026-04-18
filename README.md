@@ -31,7 +31,7 @@
   </picture>
 </div>
 
-<!-- Pac-Man Game -->
+<!-- Pac-Man Game - swap src below once billing is fixed and action has run -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/pacman-contribution.svg" alt="Pac-Man contribution game" width="100%" />
 </div>
