@@ -1,192 +1,202 @@
-<!-- Animated Wave Header with Particles -->
+<!-- Wave Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,30:00D9FF,70:00CED1,100:001f3f&height=250&section=header&text=⚓%20NICOLETTE%20MASHABA&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=NAVAL%20OFFICER%20→%20SOFTWARE%20ENGINEER%20|%20CLOUD%20ARCHITECT&descAlignY=55&descSize=16&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,30:00D9FF,70:00CED1,100:001f3f&height=220&section=header&text=⚓%20NICOLETTE%20MASHABA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Naval%20Officer%20%E2%86%92%20Software%20Engineer%20%7C%20Cloud%20Architect%20%7C%20AI%20Builder&descAlignY=55&descSize=15&descAlign=50" width="100%" />
 </div>
 
-<!-- Triple-Lane Animated Typing -->
+<!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=From+Navigating+Oceans+to+Architecting+Code;10%25+Fuel+Efficiency+%7C+25%25+AI+Accuracy+%7C+99.9%25+Uptime;Azure+Certified+%E2%98%81%EF%B8%8F+%7C+Hackathon+Winner+%F0%9F%8F%86+%7C+2026+Graduate" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=60&lines=Azure+Certified+%7C+Hackathon+Winner+%7C+8+Shipped+Projects;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Flutter+%C2%B7+.NET+%C2%B7+OpenAI" alt="Typing SVG" />
 </div>
+
 <br>
+
 <p align="center">
   <a href="https://nicmash-porfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a192f" /></a>
   <a href="mailto:nene171408@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f" /></a>
   <a href="https://www.linkedin.com/in/nicolette-mashaba-b094a5221/"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f" /></a>
   <a href="https://x.com/m_neyi"><img src="https://img.shields.io/badge/𝕏_Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0a192f" /></a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=NickiMash17&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=0a192f" alt="Profile Views" />
-  <br>
-  <a href="https://user-badge.committers.top/south_africa/NickiMash17"><img src="https://user-badge.committers.top/south_africa/NickiMash17.svg" alt="Top Committer in South Africa" /></a>
+  <img src="https://komarev.com/ghpvc/?username=NickiMash17&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=0a192f" />
+  &nbsp;
+  <a href="https://user-badge.committers.top/south_africa/NickiMash17"><img src="https://user-badge.committers.top/south_africa/NickiMash17.svg" /></a>
 </p>
 
-<!-- Animated Contribution Snake -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+<!-- Snake Game -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/github-snake.svg">
+    <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/github-snake-dark.svg" width="100%">
   </picture>
 </div>
 
-<!-- Animated Separator -->
+<!-- Pac-Man Game -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/pacman-contribution.svg" alt="Pac-Man Contribution Animation" width="100%" />
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 <br>
 
-<!-- Compact Story with Animation -->
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+## ⚓ About Me
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> ABOUT ME
+<img align="right" height="170" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<img align="right" height="180" width="240" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+I spent **6 years as a Navigation Officer in the South African Navy** — coordinating mission-critical operations, making high-stakes decisions under pressure, and optimising systems where failure was not an option. I brought that same precision into software engineering.
+
+Today I build **full-stack applications, cloud-native systems, and AI-integrated tools** that solve real problems. I'm Azure-certified, a hackathon winner, and have 8 shipped projects across web, mobile, and automation.
+
+> **What sets me apart:** Military-grade reliability thinking applied to modern software architecture.
 
 ```typescript
 const nicolette = {
-  background: "SA Navy Officer → Software Engineer",
-  location: "Polokwane, South Africa 🇿🇦",
-  graduation: "2026",
-  
+  background:  "SA Navy Officer → Software Engineer",
+  location:    "Polokwane, South Africa 🇿🇦",
+  status:      "Graduating 2026 | Actively seeking roles",
+  openTo:      ["Full-Stack Dev", "Cloud Engineering", "AI Integration"],
+  workMode:    ["Remote ✓", "Hybrid ✓", "Relocation ✓"],
+
   impact: {
-    naval: "10% fuel efficiency | 15% downtime reduction",
-    ai: "25% model accuracy improvement",
-    cloud: "99.9% system uptime achieved"
+    naval:  "10% fuel efficiency gain | 15% downtime reduction",
+    ai:     "25% model accuracy improvement @ Outlier AI",
+    cloud:  "99.9% system uptime across deployed projects",
   },
-  
-  stack: {
-    languages: ["TypeScript", "Python", "C#", "Dart"],
-    frontend: ["React", "Next.js", "Flutter"],
-    backend: ["Node.js", ".NET", "FastAPI"],
-    cloud: ["Azure ☁️", "Docker 🐳", "Terraform"],
-    ai: ["OpenAI 🤖", "NLP", "Prompt Engineering"]
-  },
-  
-  achievements: [
-    "🏆 AIMS Hackathon 2025 Winner",
-    "☁️ Azure Developer Associate (AZ-204)",
-    "📊 Azure Data Fundamentals (DP-900)"
-  ]
+
+  certifications: ["Azure Developer Associate AZ-204", "Azure Data Fundamentals DP-900"],
+  achievements:   ["🏆 AIMS Hackathon 2025 Winner", "🎓 CTU Top Performer 2023"],
 };
 ```
 
-**My Unique Edge:** Military precision + strategic optimization skills applied to scalable cloud solutions and AI-powered applications.
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-</td>
-<td width="40%" valign="top" align="center">
+## 🛠️ Tech Stack
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280">
-
-<br><br>
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> QUICK FACTS
-
-```
-🎖️  Ex-Naval Navigation Officer
-🎓  CTU Top Performer 2023
-💼  3 Tech Roles | 1 Navy Career
-🚀  Open to Work (2026 Graduate)
-🌍  Polokwane, SA | Open to Remote
-```
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,cs,dart,react,nextjs,nodejs,dotnet,fastapi,flutter,azure,docker,mongodb,postgres,firebase,terraform,django,prisma,git,vscode&perline=10&theme=dark" />
+</div>
 
 <br>
 
-<!-- Animated Tech Stack -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> TECH ARSENAL
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,cs,dart,react,nextjs,nodejs,dotnet,fastapi,flutter,azure,docker,mongodb,postgres,firebase,terraform,git,vscode&perline=9&theme=dark" />
-</p>
-
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+| Layer | Technologies |
+|-------|-------------|
+| **Languages** | TypeScript · Python · C# · Dart · JavaScript |
+| **Frontend** | React · Next.js · Flutter |
+| **Backend** | Node.js · .NET Core · FastAPI · Django |
+| **Cloud & DevOps** | Azure ☁️ · Docker · Terraform · n8n |
+| **Databases** | MongoDB · PostgreSQL · Firebase · Prisma · EF Core |
+| **AI & Automation** | OpenAI · NLP · Prompt Engineering · n8n Workflows |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-<!-- Animated Projects Section -->
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> FLAGSHIP PROJECTS
-
-</div>
+## 🚀 Shipped Projects
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+### 🤖 EmpowAI — AI Career Platform
+> SA's digital career twin for youth empowerment
 
-### 🤖 EmpowerAI
+**Live:** [empowa-ai.co.za](https://www.empowa-ai.co.za)
 
-**AI Career Platform**
+- GPT-4 chatbot · CV intelligence · Interview simulator
+- Economic forecasting dashboard
 
-South Africa's Digital Economic Twin for youth empowerment.
-
-**Features:**
-- AI Chatbot (GPT-4)
-- CV Intelligence
-- Interview Simulator
-- Economic Forecasting
-
-**Tech:** React • Node.js • Python • OpenAI • Azure
-
-<a href="#"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge" /></a>
+![React](https://img.shields.io/badge/React-0a192f?style=flat-square&logo=react&logoColor=00D9FF) ![Python](https://img.shields.io/badge/Python-0a192f?style=flat-square&logo=python&logoColor=00D9FF) ![OpenAI](https://img.shields.io/badge/OpenAI-0a192f?style=flat-square&logo=openai&logoColor=00D9FF) ![Azure](https://img.shields.io/badge/Azure-0a192f?style=flat-square&logo=microsoftazure&logoColor=00D9FF)
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+### 🎙️ Interview Replay — AI Mock Interviews
+> Practice · Record · Replay with real AI feedback
 
-### 🛡️ AI Compliance Interrogator
+**Live:** [interviewreplay.netlify.app](https://interviewreplay.netlify.app)
 
-**Hackathon Winner** 🥇
+- AI-generated questions by role · Real-time scoring
+- Session recording & replay for self-review
 
-AI-powered platform combating human trafficking through NLP analysis.
-
-**Achievement:**
-- AIMS 2025 Winner
-- 99.9% uptime
-- Real-time detection
-
-**Tech:** React • .NET Core 8 • OpenAI • Azure
-
-<a href="#"><img src="https://img.shields.io/badge/View_Project-00CED1?style=for-the-badge" /></a>
+![React](https://img.shields.io/badge/React-0a192f?style=flat-square&logo=react&logoColor=00D9FF) ![TypeScript](https://img.shields.io/badge/TypeScript-0a192f?style=flat-square&logo=typescript&logoColor=00D9FF) ![Netlify](https://img.shields.io/badge/Netlify-0a192f?style=flat-square&logo=netlify&logoColor=00D9FF)
 
 </td>
-<td width="33%" align="center" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+### 📚 StudyCoach — AI Learning Companion
+> Personalised AI-powered study planning
 
-### 🌱 FitQuest
+**Live:** [scholar-s-compass-pied.vercel.app](https://scholar-s-compass-pied.vercel.app)
 
-**Mobile Wellness App**
+- AI study plans · Adaptive coaching · Progress tracking
+- Serverless architecture on Vercel
 
-Gamified tracker with evolving plant companion.
+![React](https://img.shields.io/badge/React-0a192f?style=flat-square&logo=react&logoColor=00D9FF) ![TypeScript](https://img.shields.io/badge/TypeScript-0a192f?style=flat-square&logo=typescript&logoColor=00D9FF) ![Vercel](https://img.shields.io/badge/Vercel-0a192f?style=flat-square&logo=vercel&logoColor=00D9FF)
 
-**Features:**
-- Cross-Platform
-- Plant Evolution
-- 80% Test Coverage
-- Offline-First
+</td>
+<td width="50%" valign="top">
 
-**Tech:** Flutter • Dart • Firebase • BLoC
+### 🛡️ AI Compliance Interrogator — *AIMS 2025 Winner* 🥇
+> AI combating human trafficking via NLP analysis
 
-<a href="#"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge" /></a>
+- Real-time document NLP detection
+- 99.9% uptime · Won against 20+ teams
+
+![.NET](https://img.shields.io/badge/.NET_Core-0a192f?style=flat-square&logo=dotnet&logoColor=00D9FF) ![Azure](https://img.shields.io/badge/Azure-0a192f?style=flat-square&logo=microsoftazure&logoColor=00D9FF) ![OpenAI](https://img.shields.io/badge/OpenAI-0a192f?style=flat-square&logo=openai&logoColor=00D9FF)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 RealHomes — Property Platform
+**Repo:** [github.com/NickiMash17/RealHomes](https://github.com/NickiMash17/RealHomes)
+
+- Full listings with search, filters & auth
+- Prisma ORM · MongoDB Atlas backend
+
+![React](https://img.shields.io/badge/React-0a192f?style=flat-square&logo=react&logoColor=00D9FF) ![MongoDB](https://img.shields.io/badge/MongoDB-0a192f?style=flat-square&logo=mongodb&logoColor=00D9FF) ![Prisma](https://img.shields.io/badge/Prisma-0a192f?style=flat-square&logo=prisma&logoColor=00D9FF)
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 Field Updates Hub — Ops Management
+**Repo:** [github.com/NickiMash17/field-updates-hub](https://github.com/NickiMash17/field-updates-hub)
+
+- Role-based access · Audit trail
+- Military-informed workflow design
+
+![Django](https://img.shields.io/badge/Django-0a192f?style=flat-square&logo=django&logoColor=00D9FF) ![Python](https://img.shields.io/badge/Python-0a192f?style=flat-square&logo=python&logoColor=00D9FF)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Supplier Invoice Automation
+**Repo:** [github.com/NickiMash17/supplier-invoice-ingest](https://github.com/NickiMash17/supplier-invoice-ingest)
+
+- n8n workflow automation · PostgreSQL storage
+- Eliminates manual invoice data entry
+
+![n8n](https://img.shields.io/badge/n8n-0a192f?style=flat-square&logo=n8n&logoColor=00D9FF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a192f?style=flat-square&logo=postgresql&logoColor=00D9FF)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 FitQuest — Gamified Wellness App
+**Repo:** [github.com/NickiMash17/fitquest-app](https://github.com/NickiMash17/fitquest-app)
+
+- Cross-platform iOS & Android · 80% test coverage
+- Offline-first · BLoC state management
+
+![Flutter](https://img.shields.io/badge/Flutter-0a192f?style=flat-square&logo=flutter&logoColor=00D9FF) ![Firebase](https://img.shields.io/badge/Firebase-0a192f?style=flat-square&logo=firebase&logoColor=00D9FF) ![Dart](https://img.shields.io/badge/Dart-0a192f?style=flat-square&logo=dart&logoColor=00D9FF)
 
 </td>
 </tr>
@@ -194,22 +204,17 @@ Gamified tracker with evolving plant companion.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-<!-- Animated Stats Grid -->
-<div align="center">
+## 📊 GitHub Analytics
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GITHUB ANALYTICS
+<div align="center">
 
 <table width="100%">
 <tr>
 <td width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=NickiMash17&show_icons=true&theme=radical&hide_border=true&bg_color=0a192f&title_color=00D9FF&icon_color=00CED1&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github" width="100%" />
-
 </td>
 <td width="50%">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickiMash17&theme=radical&hide_border=true&background=0a192f&stroke=00D9FF&ring=00CED1&fire=00D9FF&currStreakNum=ffffff&currStreakLabel=00CED1&sideNums=00CED1&sideLabels=ffffff&dates=8b949e" width="100%" />
-
 </td>
 </tr>
 </table>
@@ -219,112 +224,84 @@ Gamified tracker with evolving plant companion.
 <table width="100%">
 <tr>
 <td width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickiMash17&layout=compact&theme=radical&hide_border=true&bg_color=0a192f&title_color=00D9FF&text_color=ffffff&langs_count=8&hide=html,css" width="100%" />
-
 </td>
 <td width="50%">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NickiMash17&theme=radical&utcOffset=2" width="100%" />
-
 </td>
 </tr>
 </table>
 
 </div>
 
-<!-- Animated Trophy Case -->
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NickiMash17&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4&title=MultiLanguage,Commits,Repositories,Stars" width="100%" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=NickiMash17&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4&title=PullRequest,Reviews,Followers,Issues" width="100%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+## 📈 Real-World Impact
+
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> ACHIEVEMENTS
+| Metric | Result | Context |
+|--------|--------|---------|
+| ⛽ Fuel Efficiency | **-10%** | Navigation optimisation, SA Navy |
+| 🤖 AI Model Accuracy | **+25%** | Prompt engineering, Outlier AI |
+| ⏱️ Time Saved | **10 hrs/week** | Workflow automation projects |
+| 🟢 System Uptime | **99.9%** | Azure-deployed applications |
+| 🛠️ Downtime Reduction | **-15%** | Preventative maintenance systems |
 
-<img src="https://github-profile-trophy.vercel.app/?username=NickiMash17&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers" width="100%" />
+</div>
+
+## 🗂️ Career Timeline
+
+<div align="center">
+
+| Period | Role | Organisation |
+|--------|------|--------------|
+| 2015 – 2021 | Navigation Officer | South African Navy |
+| Oct 2024 | AI Trainer & Evaluator | Outlier AI |
+| Nov 2025 | Software Engineering Intern | Coast IT |
+| 2026 | Graduating — Open to Work | CTU Training Solutions |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-<!-- Impact Metrics with Animation -->
+## 📬 Let's Build Something
+
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> REAL-WORLD IMPACT
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Seeking+roles+in+Cloud+Engineering%2C+Full-Stack+%26+AI+Integration;Remote+%E2%9C%93+%7C+Hybrid+%E2%9C%93+%7C+Relocation+%E2%9C%93" alt="Status" />
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="60" /><br>
-<b>+25%</b><br>
-<sub>AI Model Accuracy</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-4571-98ff-7f97880f7d29.png" width="60" /><br>
-<b>10hrs/week</b><br>
-<sub>Time Saved</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="60" /><br>
-<b>-10%</b><br>
-<sub>Fuel Efficiency</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122003-15087556-0291-4db5-9da8-e5c1c3ea8a4f.png" width="60" /><br>
-<b>99.9%</b><br>
-<sub>System Uptime</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
-<!-- Career Timeline -->
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="28" /> CAREER JOURNEY
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#0a192f','primaryTextColor':'#00D9FF','primaryBorderColor':'#00D9FF','lineColor':'#00CED1'}}}%%
-timeline
-    title Naval Officer → Software Engineer
-    2015-2021 : SA Navy | Navigation Officer
-    Oct 2024 : Outlier AI | AI Trainer
-    Nov 2025 : Coast IT | Software Intern
-    2026 : Graduating | Open to Work
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
-<!-- Animated Footer CTA -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> LET'S BUILD SOMETHING
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Graduating+2026+%7C+Actively+Seeking+Opportunities;Cloud+Architecture+%E2%98%81%EF%B8%8F+%7C+AI+Integration+%F0%9F%A4%96+%7C+Full-Stack+Dev;Remote+%E2%9C%93+%7C+Hybrid+%E2%9C%93+%7C+Relocation+%E2%9C%93" alt="Status" />
-
-<br>
+<br><br>
 
 <a href="mailto:nene171408@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://nicmash-porfolio.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/nicolette-mashaba-b094a5221/">
   <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="480" />
 
 <br>
 
-<sub>⚓ <b>From Navigating Oceans to Architecting Code</b> ⚓</sub>
+<sub>⚓ <b>From navigating oceans to architecting code</b> ⚓</sub>
 
 </div>
 
-<!-- Animated Wave Footer -->
+<!-- Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:00D9FF,100:0a192f&height=120&section=footer" width="100%" />
