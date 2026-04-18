@@ -32,6 +32,14 @@
   </picture>
 </div>
 
+<!-- Pac-Man Game -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+<br>
 
 ## ⚓ About Me
 
@@ -229,7 +237,9 @@ const nicolette = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NickiMash17&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&filter=commits,repo,stars,pr,followers,issues,languages" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NickiMash17&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4&title=MultiLanguage,Commits,Repositories,Stars" width="100%" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=NickiMash17&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4&title=PullRequest,Reviews,Followers,Issues" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
@@ -285,10 +295,7 @@ const nicolette = {
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/pacman-contribution.svg">
-  <img alt="Pac-Man Contribution Animation" src="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/pacman-contribution.svg" width="100%">
-</picture>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="480" />
 
 <br>
 
