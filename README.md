@@ -5,7 +5,7 @@
 
 <!-- Headline Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=60&lines=Azure+Certified+☁️+|+Hackathon+Winner+🏆+|+6+Shipped+Projects;React+·+Python+·+Flutter+·+.NET+·+Docker+·+OpenAI" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=60&lines=Azure+Certified+%7C+Hackathon+Winner+%7C+8+Shipped+Projects;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Flutter+%C2%B7+.NET+%C2%B7+OpenAI" alt="Typing" />
 </div>
 
 <br>
@@ -22,7 +22,20 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
----
+<!-- Contribution Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+<!-- Pac-Man -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20drink/Cookie.png" width="0" />
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5a2b8e6b/images/marquee.svg" width="100%" />
+</div>
 
 ## ⚓ About Me
 
@@ -30,7 +43,7 @@
 
 I spent 6 years as a **Navigation Officer in the South African Navy** — coordinating mission-critical operations, managing high-stakes decisions under pressure, and optimising systems where failure was not an option. I brought that same precision into software engineering.
 
-Today I build **full-stack applications, cloud-native systems, and AI-integrated tools** that solve real problems. I'm Azure-certified, a hackathon winner, and have 6 shipped projects across web, mobile, and automation.
+Today I build **full-stack applications, cloud-native systems, and AI-integrated tools** that solve real problems. I'm Azure-certified, a hackathon winner, and have 8 shipped projects across web, mobile, and automation.
 
 **What sets me apart:** Military-grade reliability thinking applied to modern software architecture.
 
@@ -94,6 +107,34 @@ const nicolette = {
 - Economic forecasting dashboard
 
 ![React](https://img.shields.io/badge/React-0a192f?style=flat-square&logo=react&logoColor=00D9FF) ![Node.js](https://img.shields.io/badge/Node.js-0a192f?style=flat-square&logo=node.js&logoColor=00D9FF) ![OpenAI](https://img.shields.io/badge/OpenAI-0a192f?style=flat-square&logo=openai&logoColor=00D9FF) ![Azure](https://img.shields.io/badge/Azure-0a192f?style=flat-square&logo=microsoftazure&logoColor=00D9FF)
+
+---
+
+### 🎙️ Interview Replay — AI Mock Interview Platform
+> Practice, record, and replay interviews with real AI feedback
+
+**Live:** [interviewreplay.netlify.app](https://interviewreplay.netlify.app) &nbsp;|&nbsp; **Stack:** React · TypeScript · AI Integration
+
+- AI-generated interview questions tailored by role and industry
+- Session recording and replay for self-review
+- Real-time feedback and scoring on responses
+- Deployed on Netlify with CI/CD pipeline
+
+![React](https://img.shields.io/badge/React-0a192f?style=flat-square&logo=react&logoColor=00D9FF) ![TypeScript](https://img.shields.io/badge/TypeScript-0a192f?style=flat-square&logo=typescript&logoColor=00D9FF) ![Netlify](https://img.shields.io/badge/Netlify-0a192f?style=flat-square&logo=netlify&logoColor=00D9FF)
+
+---
+
+### 📚 StudyCoach — AI-Powered Learning Companion
+> Personalised study planning and coaching with AI
+
+**Live:** [scholar-s-compass-pied.vercel.app](https://scholar-s-compass-pied.vercel.app) &nbsp;|&nbsp; **Stack:** React · TypeScript · AI Integration
+
+- AI-generated personalised study plans and schedules
+- Smart topic breakdown and progress tracking
+- Adaptive coaching based on learning pace and gaps
+- Deployed on Vercel with serverless architecture
+
+![React](https://img.shields.io/badge/React-0a192f?style=flat-square&logo=react&logoColor=00D9FF) ![TypeScript](https://img.shields.io/badge/TypeScript-0a192f?style=flat-square&logo=typescript&logoColor=00D9FF) ![Vercel](https://img.shields.io/badge/Vercel-0a192f?style=flat-square&logo=vercel&logoColor=00D9FF)
 
 ---
 
