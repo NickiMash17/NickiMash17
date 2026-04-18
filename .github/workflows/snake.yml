@@ -24,6 +24,9 @@ jobs:
       - name: checkout
         uses: actions/checkout@v4
 
+      - name: Ensure dist directory exists
+        run: mkdir -p dist
+
       # generates a snake game from a github user contributions graph, output a svg animation
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
