@@ -31,11 +31,13 @@
   </picture>
 </div>
 
-<!-- Pac-Man -->
+<!-- Pac-Man eating contributions -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20drink/Cookie.png" width="0" />
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5a2b8e6b/images/marquee.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/pacman-contribution.svg" alt="Pac-Man contribution graph" width="100%" />
 </div>
+
+<!-- Animated separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 ## ⚓ About Me
 
