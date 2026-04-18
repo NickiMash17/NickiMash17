@@ -229,7 +229,7 @@ const nicolette = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NickiMash17&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4&filter=languages,commits,repo,stars,pr,reviews,followers,issues" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NickiMash17&theme=radical&no-frame=true&no-bg=true&column=4&filter=languages,commits,repo,stars,pr,reviews,followers,issues" width="100%" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
@@ -285,7 +285,7 @@ const nicolette = {
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="480" />
+<img src="https://raw.githubusercontent.com/NickiMash17/NickiMash17/output/pacman-contribution.svg" width="100%" alt="Pac-Man Animation" />
 
 <br>
 
