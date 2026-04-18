@@ -21,6 +21,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
       # generates a snake game from a github user contributions graph, output a svg animation
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
@@ -29,7 +32,13 @@ jobs:
           outputs: |
             "dist/github-snake.svg"
             "dist/github-snake-dark.svg?color_snake=#00D9FF&color_dots=#0a192f,#00CED1,#00D9FF,#ffffff,#001f3f"
-            "dist/pacman-contribution.svg?color_snake=#00D9FF&color_dots=#0a192f,#00CED1,#00D9FF,#ffffff,#001f3f&color_empty=#0a192f&snake_type=pacman"
+
+      # generates the dedicated Pac-Man animation
+      - name: Generate Pac-Man SVG
+        uses: tp0t/pong@master
+        with:
+          GITHUB_USER: ${{ github.repository_owner }}
+          OUTPUT_FILE: dist/pacman-contribution.svg
 
       # push the content of <build_dir> to the output branch
       - name: push github-contribution-grid-snake.svg to the output branch
