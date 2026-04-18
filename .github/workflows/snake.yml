@@ -1,18 +1,11 @@
 name: generate animation
-
 on:
-  # run automatically every 24 hours
   schedule:
     - cron: "0 0 * * *"
-
-  # allows to manually run the job at any time
   workflow_dispatch:
-
-  # run on every push on the main branch
   push:
     branches:
       - main
-
 jobs:
   generate:
     permissions:
@@ -21,14 +14,13 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: checkout
+      - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Ensure dist directory exists
+      - name: Setup Workspace
         run: mkdir -p dist
 
-      # generates a snake game from a github user contributions graph, output a svg animation
-      - name: generate github-contribution-grid-snake.svg
+      - name: Generate Snake Animations
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -36,15 +28,13 @@ jobs:
             "dist/github-snake.svg"
             "dist/github-snake-dark.svg?color_snake=#00D9FF&color_dots=#0a192f,#00CED1,#00D9FF,#ffffff,#001f3f"
 
-      # generates the dedicated Pac-Man animation
-      - name: Generate Pac-Man SVG
+      - name: Generate Pac-Man Animation
         uses: tp0t/pong@master
         with:
           GITHUB_USER: ${{ github.repository_owner }}
           OUTPUT_FILE: dist/pacman-contribution.svg
 
-      # push the content of <build_dir> to the output branch
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
