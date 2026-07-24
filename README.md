@@ -1,7 +1,7 @@
 <!-- ╔══════════════════════════════════════════════════════╗ -->
 <!--   HEADER — Deep Amethyst → Electric Violet → Coral     -->
 <!-- ╚══════════════════════════════════════════════════════╝ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16002b,35:4c1d95,65:7c3aed,85:c026d3,100:f43f5e&height=210&section=header&text=Nicolette%20Mashaba&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Junior%20AI%20Software%20Engineer%20%7C%20Azure%20AZ-204%20%7C%20RAG%20%7C%20LangChain%20%7C%20Hackathon%20Winner&descSize=13&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16002b,35:4c1d95,65:7c3aed,85:c026d3,100:f43f5e&height=210&section=header&text=Nicolette%20Mashaba&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%7C%20Azure%20AZ-204%20%7C%20RAG%20%7C%20LangGraph%20%7C%20Hackathon%20Winner&descSize=13&descAlignY=60&descAlign=50" width="100%" />
 
 <!-- TYPING BANNER -->
 <div align="center">
@@ -43,8 +43,8 @@ Recognised as a **Geekulcha Top 15 AI Innovator (SA, 2026)** and **AIMS Hackatho
 
 ```python
 nicolette = {
-    "role"       : "Junior AI Software Engineer @ Always Enough LLC",
-    "background" : "SA Navy Officer (2015–2021) → AI Software Engineer",
+    "role"       : "AI Engineer @ Always Enough LLC",
+    "background" : "SA Navy Officer (2015–2021) → AI Engineer",
     "location"   : "South Africa 🇿🇦  |  Open to Europe relocation",
     "production" : [
         "Azure Durable Functions — Audio & Compliance Pipeline",
@@ -226,7 +226,7 @@ User auth · Content moderation · Full CRUD · RESTful APIs via ASP.NET Core ·
 | 2024 | AI Model Trainer | Outlier AI |
 | 2025 | Software Engineering Intern | Coast IT (Pty) Ltd |
 | 2026– | Technical Trainer (Volunteer) | TechBridle Foundation |
-| **May 2026–** | **Junior AI Software Engineer** | **Always Enough LLC · Dubai (Remote)** |
+| **May 2026-** | **AI Engineer** | **Always Enough LLC - Dubai (Remote)** |
 
 </div>
 
