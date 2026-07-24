@@ -43,7 +43,7 @@ Recognised as a **Geekulcha Top 15 AI Innovator (SA, 2026)** and **AIMS Hackatho
 
 ```python
 nicolette = {
-    "role"       : "AI Engineer @ Always Enough LLC",
+    "role"       : "AI Engineer @ Always Enough LLC (Marisa Peer RTT brand)",
     "background" : "SA Navy Officer (2015–2021) → AI Engineer",
     "location"   : "South Africa 🇿🇦  |  Open to Europe relocation",
     "production" : [
@@ -209,7 +209,7 @@ User auth · Content moderation · Full CRUD · RESTful APIs via ASP.NET Core ·
 | ⭐ | **Top 15 in SA** | Geekulcha AI Innovators 2026 |
 | 📜 | **AZ-204 @ 92%** | Renewed 2026 |
 | 🟢 | **99.9% uptime** | Azure production systems |
-| 👩‍💻 | **3 live systems** | Always Enough LLC, May 2026– |
+| 👩‍💻 | **3 live systems** | Always Enough LLC (Marisa Peer RTT brand), May 2026– |
 
 </div>
 
@@ -226,7 +226,7 @@ User auth · Content moderation · Full CRUD · RESTful APIs via ASP.NET Core ·
 | 2024 | AI Model Trainer | Outlier AI |
 | 2025 | Software Engineering Intern | Coast IT (Pty) Ltd |
 | 2026– | Technical Trainer (Volunteer) | TechBridle Foundation |
-| **May 2026-** | **AI Engineer** | **Always Enough LLC - Dubai (Remote)** |
+| **May 2026-** | **AI Engineer** | **Always Enough LLC (Marisa Peer RTT brand) - Dubai (Remote)** |
 
 </div>
 
